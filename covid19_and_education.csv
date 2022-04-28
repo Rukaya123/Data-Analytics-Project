@@ -1,0 +1,1183 @@
+ID,Age_of_Subject,Time_spent_on_Online_Class,Rating_of_Online_Class_experience,Medium_for_online_class,Time_spent_on_self_study,Time_spent_on_fitness,Time_spent_on_sleep,Time_spent_on_social_media,Prefered_social_media_platform,Time_spent_on_TV,Number_of_meals_per_day,Change_in_your_weight,Health_issue_during_lockdown,Stress_busters,Time_utilized,"More_connected_with_your_family,_close_friends_,_relatives__?",What_you_miss_the_most
+R1,21,2,Good,Laptop/Desktop,4,0,7,3,Linkedin,1,4,Increased,NO,Cooking,YES,YES,School/college
+R2,21,0,Excellent,Smartphone,0,2,10,3,Youtube,0,3,Decreased,NO,Scrolling through social media,YES,NO,Roaming around freely
+R3,20,7,Very poor,Laptop/Desktop,3,0,6,2,Linkedin,0,3,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R4,20,3,Very poor,Smartphone,2,1,6,5,Instagram,0,3,Decreased,NO,Watching web series,NO,NO,"Friends , relatives"
+R5,21,3,Good,Laptop/Desktop,3,1,8,3,Instagram,1,4,Remain Constant,NO,Social Media,NO,NO,Travelling
+R6,21,0,Very poor,Smartphone,6,0,5,1,Youtube,0,1,Decreased,YES,Coding and studying for exams,NO,YES,School/college
+R7,19,2,Very poor,Smartphone,2,1,5,4,Instagram,0,3,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R8,19,2,Very poor,Tablet,1,1,10,5,Instagram,0,3,Increased,YES,Scrolling through social media,NO,YES,Eating outside
+R9,21,3,Very poor,Laptop/Desktop,4,1,8,2,Whatsapp,1,3,Increased,NO,Online surfing,NO,NO,"Friends , relatives"
+R10,20,0,Very poor,Laptop/Desktop,1,0.5,8,5,Instagram,3,3,Decreased,YES,live stream watching,NO,NO,School/college
+R11,21,3,Good,Laptop/Desktop,3,1,8,3,Instagram,1,4,Remain Constant,NO,Social Media,NO,NO,Colleagues
+R12,21,1,Very poor,Laptop/Desktop,0,1,7,3,Instagram,1,2,Increased,YES,Watching web series,YES,YES,Eating outside
+R13,21,3,Average,Laptop/Desktop,0,0,8,3,Instagram,0,3,Increased,YES,Listening to music,NO,NO,School/college
+R14,22,1,Good,Laptop/Desktop,2,0,7,0,None,0.5,2,Increased,NO,Reading,YES,YES,Travelling
+R15,20,5,Very poor,Laptop/Desktop,1,0,8,3,Instagram,0,3,Remain Constant,NO,Scrolling through social media,NO,NO,Eating outside
+R16,22,3,Average,Smartphone,3,1,6,2,Instagram,1,3,Increased,NO,Online gaming,YES,YES,Eating outside
+R17,20,0,Good,Smartphone,0,0,8,2,Reddit,1,3,Increased,NO,Online gaming,NO,YES,Colleagues
+R18,20,1,Very poor,Smartphone,2,1,8,1,Youtube,0,3,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R19,21,0,Very poor,Laptop/Desktop,4,0,7,7,Youtube,n,2,Remain Constant,NO,Reading books,NO,NO,"Friends , relatives"
+R20,22,5,Very poor,Smartphone,2,1,8,4,Instagram,0,3,Increased,NO,Dancing,YES,YES,"Friends , relatives"
+R21,20,4,Excellent,Laptop/Desktop,5,0,6,2,Linkedin,1,2,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R22,21,5,Average,Laptop/Desktop,2,1,10,5,Instagram,2,3,Remain Constant,NO,Talking with friends,YES,NO,School/college
+R23,21,4,Very poor,Smartphone,1,0,8,6,Instagram,1,4,Decreased,NO,Watching web series,NO,YES,School/college
+R24,21,4,Average,Laptop/Desktop,2,1,7,1,Linkedin,0,3,Decreased,NO,Dancing,YES,YES,Travelling
+R25,20,3,Very poor,Smartphone,4,2,9,2,Instagram,1,3,Decreased,NO,Reading books,YES,NO,School/college
+R26,20,5,Very poor,Smartphone,2,0,9,5,Linkedin,3,2,Increased,NO,Talking to your relatives,YES,YES,Eating outside
+R27,21,4,Very poor,Laptop/Desktop,5,0,8,3,Instagram,0,2,Increased,YES,Listening to music,NO,YES,School/college
+R28,20,3,Very poor,Laptop/Desktop,6,0,9,2,Whatsapp,0,2,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R29,31,8,Average,Laptop/Desktop,4,1,6,2,Linkedin,0.5,3,Remain Constant,NO,Listening to music,YES,YES,Job
+R30,22,4,Very poor,Smartphone,6,1,5,3,Youtube,0,4,Remain Constant,NO,"sketching,reading books,meditation,songs",NO,NO,"Friends , relatives"
+R31,19,4,Very poor,Smartphone,5,1,7,2,Whatsapp,1,2,Decreased,YES,Listening to music,YES,YES,Roaming around freely
+R32,23,4,Excellent,Laptop/Desktop,18,1,8,2,Snapchat,0,2,Decreased,NO,Reading books,YES,YES,Travelling
+R33,21,0,Very poor,NA,5,2,4,2,Omegle,0,3,Remain Constant,NO,Watching orgasm releasing videos,YES,NO,Nothing this is my usual life
+R34,22,5,Very poor,Laptop/Desktop,1,0,6,2,Linkedin,0.5,3,Decreased,YES,Watching web series,YES,YES,"Friends , relatives"
+R35,20,0,NA,NA,6,1,6,5,Instagram,0,4,Increased,NO,Talking to your relatives,YES,NO,Eating outside
+R36,21,6,Average,Smartphone,2,1,8,3,Instagram,1,3,Remain Constant,NO,Cooking,NO,YES,"Friends , relatives"
+R37,17,4,Very poor,Laptop/Desktop,1,1,7,1.5,Instagram,0,3,Decreased,NO,Reading books,NO,YES,Travelling
+R38,20,4,Average,Laptop/Desktop,2,0,8,2,Instagram,0,3,Increased,NO,Sleep,NO,YES,Eating outside
+R39,22,1,Very poor,Smartphone,2,0.5,8,2,Linkedin,2,3,Increased,NO,Listening to music,NO,YES,School/college
+R40,20,0,NA,NA,8,0,8,0,Youtube,0,3,Increased,NO,Reading books,NO,YES,Travelling
+R41,24,4,Good,Laptop/Desktop,4,2,6,4,Youtube,0,4,Increased,NO,Social Media,YES,YES,Travelling
+R42,21,0,Very poor,Laptop/Desktop,0,0,10,8,Youtube,1,4,Remain Constant,NO,Watching web series,YES,NO,Travelling
+R43,20,7,Very poor,Smartphone,2,1,8,2,Whatsapp,2,4,Remain Constant,YES,Listening to music,NO,NO,Roaming around freely
+R44,21,5,Very poor,Laptop/Desktop,3,1,8,1,Instagram,0,2,Increased,NO,Listening to music,NO,NO,Eating outside
+R45,18,2,Average,Smartphone,2,3,12,1,Linkedin,0,4,Remain Constant,NO,Sleep,NO,NO,"Friends , relatives"
+R46,22,3,Very poor,Laptop/Desktop,2,0,8,1,Instagram,0,4,Increased,NO,Cooking,NO,YES,Eating outside
+R47,20,2,Very poor,Smartphone,6,2,7,1,Instagram,3,6,Decreased,NO,Listening to music,YES,NO,Roaming around freely
+R48,20,2,Very poor,Smartphone,3,0,6,2,Youtube,0,3,Decreased,YES,Reading books,NO,NO,School/college
+R49,21,3,Very poor,Laptop/Desktop,4,2,8,2,Twitter,0,4,Increased,NO,Listening to music,YES,YES,Travelling
+R50,18,4,Good,Laptop/Desktop,2,0,8,4,Instagram,0,3,Remain Constant,NO,Social Media,YES,YES,Colleagues
+R51,19,0,Very poor,Smartphone,1,0,8,2,Youtube,2,3,Remain Constant,YES,Online gaming,NO,YES,School/college
+R52,20,5,Average,Laptop/Desktop,6,1,7,2,Whatsapp,0,3,Remain Constant,NO,Reading books,NO,YES,Roaming around freely
+R53,21,3,Average,Laptop/Desktop,17,0,5,1,Youtube,0,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R54,19,0,Average,Smartphone,2,2,10,1,Instagram,0.5,4,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R55,21,4,Average,Smartphone,4,1,8,2,Youtube,2,4,Remain Constant,NO,Sleep,YES,YES,Gym
+R56,19,4,Very poor,Smartphone,2,0,7,1,Whatsapp,0,3,Increased,YES,Watching web series,YES,YES,Roaming around freely
+R57,19,2,Very poor,Smartphone,2,2,8,1,Youtube,0,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R58,18,1,Very poor,Smartphone,8,0,8,5,Youtube,2,3,Increased,NO,Online surfing,YES,YES,School/college
+R59,20,5,Average,Laptop/Desktop,1,1,7,1,Whatsapp,0,3,Increased,YES,Listening to music,NO,YES,School/college
+R60,21,0,Very poor,Smartphone,5,0,8,1,Instagram,1,3,Remain Constant,NO,Online gaming,YES,NO,Eating outside
+R61,22,6,Very poor,Laptop/Desktop,6,0,6,1,Instagram,0,2,Increased,NO,Watching web series,YES,NO,"Friends , relatives"
+R62,20,3,Very poor,Laptop/Desktop,6,1,8,1,Instagram,2,4,Increased,NO,Sleep,YES,YES,Roaming around freely
+R63,18,0,Very poor,Laptop/Desktop,2,1,6,5,Instagram,0,1,Remain Constant,NO,Crying,NO,YES,"Friends , relatives"
+R64,20,2,Very poor,Laptop/Desktop,0,1,8,2,Instagram,0,3,Increased,NO,Watching web series,NO,YES,School/college
+R65,23,2,Very poor,Smartphone,1,1,7,5,Instagram,1,4,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R66,20,4,Average,Smartphone,4,2,7,2,Instagram,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R67,19,0,NA,NA,0,2,6,4,Instagram,0.5,3,Remain Constant,NO,Listening to music,NO,YES,Eating outside
+R68,18,3,Average,Smartphone,1,1,8,3,Whatsapp,0.5,4,Remain Constant,NO,Dancing,YES,YES,Roaming around freely
+R69,20,1.5,Very poor,Smartphone,3,2,9,1,Youtube,1,2,Decreased,YES,Sleep,NO,YES,Travelling
+R70,19,2,Very poor,Tablet,2,1,8,5,Instagram,0,4,Decreased,NO,Scrolling through social media,NO,YES,Roaming around freely
+R71,20,2,Very poor,Smartphone,3,1,6,2,Instagram,1,4,Increased,NO,Listening to music,NO,NO,Travelling
+R72,22,6,Very poor,Smartphone,4,0,7,2,Whatsapp,0,1,Increased,NO,Online gaming,NO,NO,Eating outside
+R73,20,2,Very poor,Smartphone,2,0,7,3,Whatsapp,2,2,Remain Constant,NO,Reading books,NO,NO,"Friends , relatives"
+R74,19,1,Average,Laptop/Desktop,0.5,1,7,5,Instagram,2,3,Remain Constant,NO,Many of these,NO,YES,"Friends , relatives"
+R75,18,3,Very poor,Smartphone,2,2,8,8,Instagram,0,4,Remain Constant,NO,Listening to music,NO,YES,School/college
+R76,19,3,Average,Smartphone,5,0,5,4,Telegram,0,2,Increased,YES,Listening to music,YES,NO,Roaming around freely
+R77,19,0,Very poor,Smartphone,1,1,8,2,Instagram,0,3,Decreased,NO,Listening to music,YES,YES,School/college
+R78,20,3,Average,Laptop/Desktop,3,0,10,10,Facebook,4.5,3,Increased,NO,Scrolling through social media,NO,NO,School/college
+R79,20,3,Excellent,Laptop/Desktop,0,1,8,5,Youtube,1,3,Increased,NO,Online surfing,NO,YES,School/college
+R80,19,1,Good,Laptop/Desktop,4,0,8,2,None,0,4,Increased,NO,Web Series,YES,YES,Travelling
+R81,21,5,Average,Laptop/Desktop,5,0,8,7,Instagram,1,2,Increased,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R82,21,3,Good,Smartphone,2,1,10,1,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,Colleagues
+R83,19,2,Very poor,Smartphone,2,0.5,9,3,Instagram,1,2,Increased,NO,Online gaming,YES,YES,School/college
+R84,20,0,Very poor,Laptop/Desktop,1,1,12,2,Instagram,2,2,Increased,NO,Online gaming,NO,YES,Roaming around freely
+R85,21,1,Poor,Smartphone,8,0,10,1,Whatsapp,0,3,Decreased,NO,Sleep,YES,YES,School/college
+R86,19,2,Very poor,Tablet,2,1,8,5,Instagram,0,4,Decreased,NO,Scrolling through social media,NO,YES,Roaming around freely
+R87,20,5,Average,Smartphone,3,1,7,1.5,Instagram,0,3,Increased,YES,drawing,YES,YES,School/college
+R88,21,4,Very poor,Smartphone,3,1,8,1,Linkedin,0,3,Decreased,NO,Meditation,NO,NO,All of them
+R89,18,3,Very poor,Smartphone,4,1,7,1,Whatsapp,0,4,Remain Constant,YES,Listening to music,NO,NO,Eating outside
+R90,19,4,Average,Smartphone,3,1,7,3,Instagram,2,3,Increased,NO,Listening to music,YES,YES,School/college
+R91,25,4,Very poor,Smartphone,3,1,7,1,Instagram,0,3,Remain Constant,YES,Cricket,NO,NO,Eating outside
+R92,19,0,Very poor,Smartphone,4,1,8,1,Whatsapp,0,3,Increased,NO,Listening to music,NO,YES,School/college
+R93,19,4,Very poor,Laptop/Desktop,0,0,8,2,Instagram,1.5,3,Increased,YES,Anime Manga,NO,NO,School/college
+R94,20,4,Good,Smartphone,2,2,8,6,Instagram,0,3,Decreased,NO,Sleeping,YES,YES,School/college
+R95,20,2,Average,Smartphone,3,1,5,4,Instagram,1,3,Increased,NO,Listening to music,NO,YES,School/college
+R96,19,5,Good,Tablet,3,1,8,2,Snapchat,0,2,Remain Constant,NO,Reading,NO,YES,Travelling
+R97,19,3,Average,Smartphone,1,0,10,4,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R98,22,2,Average,Smartphone,0,0,12,4,Instagram,2,3,Increased,NO,Online gaming,NO,YES,Eating outside
+R99,21,1,Good,Smartphone,3,2,10,1,Youtube,2,4,Increased,YES,Meditation,NO,YES,Colleagues
+R100,21,1,Very poor,Smartphone,2,1,8,1,Whatsapp,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R101,16,6,Poor,Smartphone,2,2,7,2,Youtube,1,3,Remain Constant,NO,Scrolling through social media,YES,YES,Travelling
+R102,21,3,Average,Laptop/Desktop,5,0,8,7,Linkedin,1,2,Remain Constant,NO,Watching web series,NO,YES,School/college
+R103,21,4,Very poor,Smartphone,4,1,7,1,Whatsapp,0,4,Decreased,YES,Listening to music,YES,NO,Travelling
+R104,16,3,Very poor,Smartphone,3,1,7,3,Youtube,1,2,Remain Constant,NO,Listening to music,NO,NO,Friends and School
+R105,21,2,Very poor,Smartphone,7,2,8,0.5,Instagram,0,5,Increased,NO,Reading books,YES,YES,Gym
+R106,23,4,Excellent,Laptop/Desktop,6,1,8,0.3,Whatsapp,0,3,Increased,NO,Talking to your relatives,YES,NO,Travelling
+R107,19,2,Very poor,Smartphone,1.5,1,7,2,Youtube,N,2,Remain Constant,NO,Listening to music,NO,NO,School/college
+R108,20,1,Very poor,Smartphone,2,1,8,1,Instagram,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R109,18,2,Very poor,Smartphone,3,1,8,1,Instagram,1,3,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R110,10,3,Good,Tablet,3,0,10,1,Youtube,4,3,Remain Constant,NO,Online gaming,YES,NO,Colleagues
+R111,20,0,Very poor,Smartphone,2,2,8,0.15,Linkedin,0.3,2,Decreased,NO,Talking to your relatives,YES,YES,School/college
+R112,21,3,Average,Smartphone,3,0,11,2,Whatsapp,N,2,Increased,YES,Sleep,NO,YES,School/college
+R113,19,1,Very poor,Smartphone,4,1,8,1,Youtube,0,4,Remain Constant,NO,Sleep,NO,YES,School/college
+R114,14,5,Average,Laptop/Desktop,4,1,7,4,Instagram,1,5,Increased,NO,Scrolling through social media,NO,NO,"Friends,Romaing and traveling"
+R115,18,2,Very poor,Smartphone,3,1,10,2,Whatsapp,0,3,Remain Constant,NO,Online gaming,NO,YES,School/college
+R116,18,3,Very poor,Smartphone,6,0,7,3,Youtube,1,3,Remain Constant,NO,Reading books,YES,NO,School/college
+R117,24,4,Excellent,Laptop/Desktop,8,1,8,2,Youtube,2,3,Increased,NO,Online surfing,YES,YES,"Friends , relatives"
+R118,14,3,Good,Smartphone,5,1,12,0.3,Instagram,1,3,Remain Constant,NO,Sleeping,YES,YES,Colleagues
+R119,21,4,Good,Laptop/Desktop,2,2,7,2,Instagram,1,3,Increased,NO,Dancing,YES,YES,Travelling
+R120,19,2,Average,Smartphone,6,1,6,1,Instagram,0,3,Increased,NO,Watching web series,NO,YES,School/college
+R121,18,2.5,Average,Smartphone,2,1,8,1,Youtube,0,4,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R122,23,6,Average,Laptop/Desktop,5,1,6,1,Linkedin,0,3,Remain Constant,NO,Meditation,YES,YES,School/college
+R123,21,4,Average,Smartphone,4,1,8,1,Youtube,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R124,18,5,Very poor,Smartphone,3,0,9,7,Whatsapp,0,3,Increased,NO,Watching web series,YES,NO,Roaming around freely
+R125,19,1,Very poor,Smartphone,2,0,7,1,Whatsapp,0,2,Increased,YES,Sleep,NO,NO,School/college
+R126,20,5,Average,Smartphone,4,1,7,2,Whatsapp,1,3,Increased,NO,Meditation,YES,YES,School/college
+R127,20,2,Average,Smartphone,3,0.5,6.5,1,Whatsapp,0.5,3,Remain Constant,NO,Listening to music,YES,YES,Roaming around freely
+R128,19,2,Very poor,Smartphone,4,1,8,2,Youtube,0,4,Decreased,NO,Sketching and writing,NO,NO,Roaming around freely
+R129,15,1,Good,Smartphone,3,1,6,4,Whatsapp,1.5,4,Increased,NO,Listening to music,YES,YES,School/college
+R130,19,0,NA,NA,1,3,8,5,Instagram,1,1,Decreased,NO,Listening to music,NO,YES,Eating outside
+R131,20,3,Very poor,Smartphone,3,0,9,2,Youtube,2,2,Decreased,NO,Meditation,YES,YES,Travelling
+R132,17,6,Average,Laptop/Desktop,4,1,8,1,Youtube,1,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R133,18,2,Very poor,Smartphone,2,1,9,2,Linkedin,2,2,Increased,NO,Watching web series,YES,YES,Travelling
+R134,20,2,Very poor,Smartphone,4,0,10,4,Whatsapp,2,3,Decreased,NO,Cooking,NO,YES,School/college
+R135,18,5,Average,Smartphone,1,1,8,1,Youtube,0,4,Increased,NO,Sleep,YES,YES,Roaming around freely
+R136,22,0.1,Poor,Smartphone,2.5,1,12,0.3,Youtube,0,5,Increased,NO,Online gaming,NO,YES,Only friends
+R137,18,3,Very poor,Smartphone,5,1,7,2,Youtube,0,3,Remain Constant,NO,Online gaming,NO,YES,Roaming around freely
+R138,15,4,Average,Smartphone,2,0.5,6,1,Whatsapp,1,3,Remain Constant,NO,Dancing,NO,YES,Eating outside
+R139,22,1,Very poor,Laptop/Desktop,10,1,7,1,Whatsapp,0,3,Remain Constant,NO,Writing,YES,YES,Roaming around freely
+R140,19,3,Very poor,Laptop/Desktop,2,1,9,1,Youtube,0,3,Decreased,NO,Online gaming,NO,YES,School/college
+R141,20,3,Very poor,Smartphone,5,0,7,2,Instagram,1,2,Remain Constant,YES,Watching web series,YES,YES,School/college
+R142,20,3,Very poor,Smartphone,3,0,9,2,Youtube,2,2,Decreased,NO,Meditation,YES,YES,Travelling
+R143,20,1,Very poor,Smartphone,1,0,6,0,None,0,2,Increased,NO,Sleep,YES,YES,School/college
+R144,18,2,Poor,Smartphone,6,1,7,1,Youtube,1,2,Increased,NO,Listening to music,YES,YES,"Friends , relatives"
+R145,19,2,Very poor,Smartphone,2,2,8,2,Youtube,3,2,Increased,NO,Watching web series,YES,YES,Eating outside
+R146,14,4,Average,Smartphone,2,1,8,2,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R147,20,6,Average,Laptop/Desktop,1,1,6,1,Linkedin,0,3,Increased,YES,Talking to your relatives,YES,YES,School/college
+R148,20,3,Average,Laptop/Desktop,2,1,8,2,Linkedin,2,3,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R149,19,6,Very poor,Smartphone,3,0,7,2,Whatsapp,0.5,2,Increased,YES,Online gaming,NO,YES,"Friends , relatives"
+R150,19,1,Average,Laptop/Desktop,1,1,10,1,Instagram,0,3,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R151,18,2,Very poor,Smartphone,2,1,10,2,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,NO,Eating outside
+R152,21,4,Very poor,Smartphone,4,1,8,2,Instagram,0,3,Increased,NO,Sleep,NO,YES,Roaming around freely
+R153,15,4,Average,Smartphone,7,2,6,1,Instagram,1,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R154,20,5,Very poor,Tablet,3,1,8,2,Whatsapp,3,4,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R155,21,1,Very poor,Smartphone,3,0,6,1,Instagram,1,1,Decreased,YES,Reading books,NO,YES,Eating outside
+R156,19,0.5,Very poor,Smartphone,7,2,7,0.1,Instagram,0,4,Remain Constant,YES,Listening to music,YES,YES,"Friends , relatives"
+R157,20,3,Very poor,Laptop/Desktop,1,0,6,2,Facebook,0,2,Increased,NO,pubg,NO,YES,Eating outside
+R158,21,5,Average,Smartphone,1,0,5,1,Whatsapp,0,2,Decreased,NO,Online gaming,NO,NO,Travelling
+R159,21,4,Excellent,Laptop/Desktop,6,2,6,1,Youtube,1,3,Remain Constant,NO,Cooking,YES,YES,Eating outside
+R160,21,3,Very poor,Smartphone,2,0,7,2,Twitter,0,3,Increased,YES,Reading books,NO,YES,School/college
+R161,20,4,Average,Laptop/Desktop,2,0,7,2,Snapchat,4,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R162,20,6,Very poor,Smartphone,3,0,8,4,Linkedin,2,3,Increased,YES,Sleep,NO,YES,School/college
+R163,23,0,Very poor,Laptop/Desktop,1,0,10,4,Linkedin,0,4,Increased,NO,Online gaming,NO,YES,Travelling
+R164,21,4,Very poor,Smartphone,3,1,8,1,Youtube,1,3,Remain Constant,YES,Online surfing,NO,YES,"Friends , relatives"
+R165,22,1,Very poor,Smartphone,4,1,7,2,Linkedin,0,2,Increased,YES,Watching web series,NO,NO,Roaming around freely
+R166,23,3,Good,Tablet,0,0,12,4,Instagram,0,2,Increased,NO,Cooking,NO,NO,Travelling
+R167,22,4,Good,Smartphone,4,0.5,8,2,Whatsapp,0,3,Increased,NO,Sleeping,YES,NO,School/college
+R168,21,0,Very poor,Smartphone,1,0,7,10,Whatsapp,0,7,Increased,NO,Listening to music,NO,YES,School/college
+R169,20,0,Very poor,Smartphone,3,2,12,1,Instagram,0,3,Increased,NO,Scrolling through social media,NO,NO,School/college
+R170,15,4,Average,Smartphone,2,3,7,1,Instagram,2,4,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R171,20,0,Very poor,Smartphone,3,2,8,2,Whatsapp,1,3,Remain Constant,YES,Listening to music,YES,YES,School/college
+R172,20,0,Very poor,Smartphone,1,0,8,0.5,Whatsapp,1,3,Decreased,YES,Reading books,NO,YES,Roaming around freely
+R173,16,4,Excellent,Laptop/Desktop,3,2,10,1,Youtube,1,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R174,22,1,Average,Smartphone,3,1,7,1,Whatsapp,0,3,Remain Constant,NO,Sleep,NO,YES,School/college
+R175,20,5,Average,Laptop/Desktop,4,0,10,2,Linkedin,4,3,Decreased,NO,Sleep,YES,YES,Roaming around freely
+R176,21,0,Good,Smartphone,4,1,8,2,Instagram,0,2,Decreased,YES,Online gaming,YES,YES,Colleagues
+R177,34,3,Good,Laptop/Desktop,3,1,7,1,Whatsapp,2,3,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R178,22,0,Average,Laptop/Desktop,3,1,9,0,Telegram,2,5,Decreased,NO,Watching web series,NO,YES,Roaming around freely
+R179,22,6,Good,Laptop/Desktop,2,1,8,4,Instagram,0,4,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R180,21,1,Average,Laptop/Desktop,1,2,7,2,Youtube,1,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R181,20,1,Very poor,Smartphone,2,1,8,3,Whatsapp,0,3,Remain Constant,NO,Watching web series,YES,NO,"Friends , relatives"
+R182,21,3,Average,Smartphone,0.5,3,6,2,Instagram,0,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R183,19,2,Very poor,Smartphone,2,1,8,2,Instagram,2,3,Increased,YES,Listening to music,YES,YES,Roaming around freely
+R184,22,1,Very poor,Smartphone,7,0,7,1,Facebook,0,3,Remain Constant,NO,Talking to your relatives,YES,YES,"Friends , relatives"
+R185,20,3,Very poor,Laptop/Desktop,1.5,1,6,2,Reddit,1.5,2,Decreased,YES,Watching web series,NO,NO,"Friends , relatives"
+R186,14,4,Very poor,Smartphone,1,0,9,1.5,Whatsapp,5,3,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R187,22,1,Average,Smartphone,4,0.5,11,1,Instagram,0,3,Remain Constant,YES,Listening to music,NO,NO,School/college
+R188,22,2,Average,Laptop/Desktop,5,0,8,3,Instagram,1,3,Increased,NO,Listening to music,YES,YES,School/college
+R189,19,2,Poor,Smartphone,10,0.25,8,2,Instagram,0,3,Increased,NO,Talking to your relatives,YES,YES,School/college
+R190,21,1,Average,Smartphone,0,1,6,2,Whatsapp,0,2,Decreased,NO,Online gaming,NO,YES,School/college
+R191,15,5,Average,Smartphone,5,0,7,3,Instagram,2,3,Remain Constant,NO,Watching web series,NO,YES,School/college
+R192,21,3,Good,Laptop/Desktop,3,0.5,8,4,Youtube,0,3,Remain Constant,NO,Web Series,NO,YES,Colleagues
+R193,21,3,Very poor,Smartphone,8,3,7,3,Youtube,0,3,Decreased,YES,Talking to your relatives,NO,NO,School/college
+R194,34,3,Average,Laptop/Desktop,3,1,8,1,Whatsapp,1,3,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R195,22,3,Very poor,Laptop/Desktop,0,5,8,10,Twitter,No tv,3,Remain Constant,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R196,34,1.5,Poor,Laptop/Desktop,1,0,6,1,Linkedin,0,2,Remain Constant,YES,Online surfing,NO,NO,Taking kids to park
+R197,21,4,Good,Laptop/Desktop,4,1,7,2,Instagram,2,3,Remain Constant,NO,Talking,YES,YES,Colleagues
+R198,20,3,Average,Laptop/Desktop,3,1,7,1,Instagram,0,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R199,20,3,Very poor,Laptop/Desktop,5,0,7.5,2,Whatsapp,0.5,4,Increased,NO,Sleep,YES,NO,School/college
+R200,25,2,Very poor,Laptop/Desktop,3,1,8,4,Facebook,1,2,Increased,NO,Watching web series,NO,NO,Roaming around freely
+R201,19,0.5,Very poor,Smartphone,3,1,8,1,Instagram,0,2,Remain Constant,NO,Sleep,YES,YES,School/college
+R202,26,5,Average,Laptop/Desktop,10,1,8,1,Youtube,0.5,2,Remain Constant,NO,Meditation,YES,YES,Roaming around freely
+R203,20,3,Good,Laptop/Desktop,4,0,8,2,Youtube,0,3,Remain Constant,NO,Cooking,YES,YES,Travelling
+R204,24,7,Very poor,Laptop/Desktop,7,2,7,2,Youtube,0,3,Remain Constant,NO,Reading books,YES,YES,Travelling
+R205,21,0,Very poor,Laptop/Desktop,0,2,12,6,Facebook,0,4,Increased,NO,Watching web series,NO,NO,Travelling
+R206,20,5,Good,Smartphone,2.5,1,9,3,Instagram,0.5,2,Remain Constant,NO,Dancing,YES,YES,School/college
+R207,16,7,Average,Tablet,4,1,7,1,Whatsapp,0,3,Remain Constant,NO,Reading books,YES,YES,All of the above
+R208,17,6,Average,Laptop/Desktop,1,0,7,2,Reddit,0,2,Remain Constant,NO,Online gaming,YES,NO,"Friends , relatives"
+R209,59,3,Average,Smartphone,6,1,9,0.5,Whatsapp,1,2,Increased,NO,Sleep,YES,YES,School/college
+R210,17,7,Good,Smartphone,4,0,7,1,Whatsapp,1,2,Increased,NO,Listening to music,YES,NO,School/college
+R211,16,6,Very poor,Smartphone,5,0,7,2,Youtube,0,3,Increased,NO,Online surfing,NO,YES,"Friends , relatives"
+R212,20,3,Average,Laptop/Desktop,4,1,7,2,Linkedin,2,3,Remain Constant,NO,Talking to your relatives,YES,NO,School/college
+R214,17,6,Very poor,Smartphone,1.5,2,7,2,Instagram,0.5,4,Increased,NO,Workout,YES,NO,Travelling
+R215,17,6,Average,Laptop/Desktop,5,0.5,7,1,Whatsapp,1,2,Remain Constant,NO,Listening to music,NO,NO,Eating outside
+R216,20,3,Good,Laptop/Desktop,4,0,7,4,Whatsapp,0,2,Remain Constant,YES,Social Media,YES,YES,Colleagues
+R217,17,6,Average,Tablet,2,1,7,1,Whatsapp,1,4,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R218,20,4,Very poor,Smartphone,2,0,7,0.5,Whatsapp,0.5,3,Increased,NO,Sleep,NO,NO,School/college
+R219,16,8,Good,Laptop/Desktop,7,0,6,1,Whatsapp,0.5,3,Remain Constant,NO,Social Media,NO,NO,Travelling
+R220,19,0.5,Very poor,Smartphone,5,0.5,10,1,Whatsapp,1,2,Remain Constant,YES,Meditation,YES,NO,School/college
+R221,20,0,Very poor,Laptop/Desktop,2,0,10,3,Instagram,2,4,Increased,NO,Sleep,NO,YES,"Friends , relatives"
+R222,22,4,Average,Laptop/Desktop,3,1,8,3,Whatsapp,0,4,Increased,NO,Online gaming,YES,NO,Travelling
+R223,17,9,Poor,Laptop/Desktop,3,0,5,0.5,Instagram,1,3,Remain Constant,NO,Listening to music,NO,NO,All the above
+R224,23,1,Very poor,Smartphone,8,2,8,2,Instagram,2,3,Decreased,NO,Online gaming,YES,YES,"Friends , relatives"
+R225,22,0,Very poor,Laptop/Desktop,3,0,10,8,Instagram,0,2,Increased,YES,Watching web series,YES,YES,"Friends , relatives"
+R226,22,1.5,Average,Laptop/Desktop,0,0,9,6,Instagram,2,3,Increased,NO,Scrolling through social media,YES,YES,School/college
+R227,19,2,Very poor,Smartphone,2,1,8,2,Whatsapp,1,3,Decreased,YES,Scrolling through social media,NO,YES,Roaming around freely
+R228,19,2,Very poor,Smartphone,5,1,9,2,Twitter,0,4,Remain Constant,NO,Listening to music,YES,NO,School/college
+R229,23,1,Very poor,Laptop/Desktop,1,0,8,5,Whatsapp,0,4,Increased,NO,Talking to your relatives,NO,YES,Eating outside
+R230,32,4,Good,Laptop/Desktop,5,2,5,3,Facebook,0,3,Remain Constant,NO,Reading,YES,YES,Colleagues
+R231,17,6,Average,Smartphone,12,1,8,2,Whatsapp,3,4,Remain Constant,NO,Sleep,NO,NO,Travelling
+R232,21,0,NA,NA,10,1,5,0.5,Linkedin,0,4,Remain Constant,NO,Cooking,NO,NO,Internet
+R233,22,4,Average,Laptop/Desktop,3,2,8,2,Whatsapp,0.5,4,Increased,NO,Sleep,YES,YES,Roaming around freely
+R234,17,6,Very poor,Any Gadget,4,2.5,8,0.5,Instagram,0,3,Remain Constant,NO,Reading books,YES,YES,School/college
+R235,17,5,Average,Laptop/Desktop,1.5,2,8,1,Youtube,3,3,Decreased,NO,Cooking,YES,YES,"Friends , relatives"
+R236,22,5,Good,Laptop/Desktop,10,1,6,1,Elyment,0,3,Remain Constant,YES,Online gaming,YES,YES,School/college
+R237,18,2,Very poor,Smartphone,2,2,9,4,Youtube,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R238,20,5,Very poor,Laptop/Desktop,12,0,7,1,Reddit,0,3,Increased,NO,Reading books,NO,YES,Roaming around freely
+R239,30,3,Average,Smartphone,1,0.5,4,1,Whatsapp,0.5,2,Remain Constant,NO,Meditation,YES,YES,School/college
+R240,19,1,Average,Laptop/Desktop,1,0,8,1,Youtube,2,4,Remain Constant,NO,Whatever want,NO,NO,Eating outside
+R241,14,3,Good,Laptop/Desktop,2,0,8,1,Whatsapp,1,1,Increased,NO,Cooking,YES,YES,School/college
+R242,19,0,NA,NA,2,1,8,4,Instagram,0,3,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R243,16,7,Average,Smartphone,3,2,11,1.5,Instagram,1,3,Decreased,YES,Online gaming,NO,YES,School/college
+R244,17,6,Average,Smartphone,2,1,9,3,Instagram,0.5,3,Remain Constant,NO,Sleep,NO,YES,"Friends , relatives"
+R245,20,1,Very poor,Tablet,2,2,8,1,Youtube,0,2,Decreased,NO,Reading books,NO,YES,School/college
+R246,17,4,Good,Smartphone,2,0,7,3,Instagram,2,4,Increased,NO,Social Media,YES,YES,School/college
+R247,20,6,Average,Any Gadget,2,0,6,4,Instagram,0,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R249,17,5,Average,Smartphone,4,2,7,2,Youtube,2,2,Increased,NO,Online gaming,NO,YES,School/college
+R250,21,3,Very poor,Laptop/Desktop,2,0,7,2,Facebook,2,3,Remain Constant,NO,Online gaming,YES,NO,Going to the movies
+R251,16,4,Poor,Laptop/Desktop,0,0,9,1,Whatsapp,1,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R252,21,5,Average,Smartphone,2,2,6,5,Instagram,0,3,Increased,NO,Scrolling through social media,NO,YES,Roaming around freely
+R253,18,0,NA,NA,8,0.5,5,3,Linkedin,1,3,Remain Constant,NO,Dancing,YES,YES,Travelling
+R254,20,4,Good,Laptop/Desktop,5,1,7,0.1,Whatsapp,0,4,Remain Constant,NO,Reading,NO,NO,School/college
+R255,14,4,Average,Smartphone,4,0,8,2,Instagram,2,3,Increased,NO,Listening to music,NO,YES,School/college
+R256,19,3,Good,Laptop/Desktop,2,0,8,5,Youtube,1.5,3,Increased,NO,Web Series,NO,YES,School/college
+R257,18,0,Very poor,Laptop/Desktop,3,0,8,4,Facebook,1,3,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R258,13,5,Very poor,Laptop/Desktop,4,1,8,10,Whatsapp,0,3,Decreased,NO,Cooking,NO,NO,School/college
+R259,20,4,Very poor,Laptop/Desktop,8,0,6,1,Instagram,0,3,Decreased,NO,Listening to music,YES,YES,Eating outside
+R260,19,0,Very poor,Laptop/Desktop,4,0.3,8,2,Whatsapp,0,2,Remain Constant,NO,Talking to your relatives,NO,NO,School/college
+R261,15,5,Average,Smartphone,1,0,7,1,Youtube,1.5,3,Remain Constant,NO,Online gaming,NO,YES,School/college
+R262,20,1,Very poor,Smartphone,0,0,10,5,Youtube,1,2,Increased,YES,Sleep,NO,YES,School/college
+R263,19,0,Very poor,Laptop/Desktop,1,0,8,4,Twitter,2,3,Increased,NO,Watching web series,NO,NO,"Friends , relatives"
+R264,21,3,Good,Laptop/Desktop,3,1,6,0.5,Whatsapp,0.5,2,Increased,YES,Listening to music,YES,NO,Travelling
+R265,20,4,Very poor,Laptop/Desktop,2,1,8,4,Youtube,0,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R266,20,4,Good,Laptop/Desktop,5,1,6,2,Youtube,0.5,2,Remain Constant,NO,Listening to music,NO,YES,Colleagues
+R267,16,6,Good,Laptop/Desktop,3,0,7,1,Whatsapp,1,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R268,21,2,Poor,Laptop/Desktop,2,1,5,3,Whatsapp,1,3,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R269,17,5.5,Good,Smartphone,5,1,9,1,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,Colleagues
+R270,21,0,Average,Laptop/Desktop,12,0,7,3,Youtube,0,3,Remain Constant,NO,Reading books,YES,YES,Nothing
+R271,20,0,Good,Smartphone,0,0,7.5,3.5,Youtube,2,3,Remain Constant,NO,Indoor Games,YES,YES,Nothing
+R272,21,4,Average,Laptop/Desktop,2,1,8,3,Instagram,N,2,Remain Constant,NO,Online gaming,NO,NO,Eating outside
+R273,20,3,Very poor,Smartphone,5,1,7,1,Whatsapp,0,3,Increased,NO,Sleep,NO,YES,Roaming around freely
+R274,16,4,Poor,Smartphone or Laptop/Desktop,2.5,0.5,6,0.5,Whatsapp,1,3,Remain Constant,NO,"watching movies,reading books,games,listening to music,sleep,dancing",YES,YES,"school, relatives and friends"
+R275,19,0,Very poor,Laptop/Desktop,8,1,8,2,Whatsapp,0,2,Increased,YES,Cooking,YES,YES,Roaming around freely
+R276,19,1,Very poor,Laptop/Desktop,3,0,8,3,Instagram,3,3,Increased,YES,Listening to music,YES,YES,Roaming around freely
+R278,19,1,Excellent,Laptop/Desktop,1,3,9,2,Youtube,0,5,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R279,20,2,Good,Laptop/Desktop,1,0,10,1,Whatsapp,0,2,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R280,19,2,Average,Smartphone,3,1,9,3,Whatsapp,3,3,Increased,NO,Sleep,NO,YES,School/college
+R281,17,7,Average,Laptop/Desktop,2,0,6,2,Youtube,2,2,Increased,NO,Sleep,YES,YES,School/college
+R282,21,0,Very poor,Laptop/Desktop,2,0,8,3,Whatsapp,5,3,Decreased,NO,Watching web series,NO,NO,Roaming around freely
+R283,17,6,Good,Smartphone,4,0,7,1,Whatsapp,2,3,Decreased,NO,Listening to music,YES,NO,School/college
+R285,25,5,Average,Laptop/Desktop,6,0,8,1,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R286,19,3,Average,Laptop/Desktop,6,0.5,8,0.6,Linkedin,1.5,4,Increased,NO,Reading books,YES,YES,School/college
+R287,16,5,Very poor,Smartphone,2,1,8,2,Whatsapp,N,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R288,17,7,Good,Smartphone,5,0.5,7,2,Whatsapp,2,3,Increased,NO,Online gaming,NO,NO,All
+R289,18,1,Average,Smartphone,2,0,10,1,Instagram,0.5,2,Remain Constant,NO,Reading books,NO,NO,Roaming around freely
+R290,20,5,Excellent,Laptop/Desktop,1,1,8,3,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R291,20,3,Very poor,Laptop/Desktop,9,1,6,1,Whatsapp,0,1,Increased,NO,Meditation,NO,YES,Roaming around freely
+R292,20,1,Very poor,Laptop/Desktop,3,1,9,4,Instagram,0,2,Increased,NO,Scrolling through social media,YES,YES,School/college
+R293,22,3,Average,Smartphone,3,0,8,2,Instagram,1,3,Increased,NO,Talking to your relatives,NO,NO,School/college
+R294,16,7,Excellent,Tablet,2,1,6,2,Whatsapp,0,3,Decreased,NO,Online surfing,YES,NO,School/college
+R295,19,2,Very poor,Laptop/Desktop,1,1,7,5,Instagram,1,4,Remain Constant,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R296,17,9,Average,Laptop/Desktop,5,1,6,1,Youtube,0,3,Decreased,NO,Listening to music,YES,NO,Travelling
+R297,20,0,Average,Laptop/Desktop,1,0,9,5,Whatsapp,2,4,Remain Constant,YES,Listening to music,YES,YES,Travelling
+R298,21,0,Very poor,Laptop/Desktop,6,0,6,4,Youtube,2,3,Increased,NO,Meditation,NO,YES,Roaming around freely
+R299,19,2,Very poor,Laptop/Desktop,3,1,8,1,Instagram,2,4,Remain Constant,NO,Watching web series,YES,YES,Travelling
+R301,17,8,Very poor,Smartphone,2,1,9,0,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,NO,All
+R302,25,1,Average,Laptop/Desktop,3,1,7,3,Whatsapp,2,3,Increased,NO,Reading books,NO,YES,Travelling
+R303,20,3,Average,Smartphone,2,0.5,8,3,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R304,21,0,Very poor,NA,1,0,10,3,Instagram,2,3,Remain Constant,NO,Watching web series,NO,NO,Roaming around freely
+R305,19,5,Excellent,Smartphone,5,1,7,2,Youtube,3,3,Increased,NO,Sleep,NO,YES,Travelling
+R306,23,5,Average,Smartphone,5,1,8,1,Whatsapp,2,3,Remain Constant,NO,gardening cartoon,YES,YES,Roaming around freely
+R307,22,2,Average,Laptop/Desktop,8,1,8,2,Linkedin,1,2,Remain Constant,NO,Listening to music,YES,NO,School/college
+R308,22,4,Average,Laptop/Desktop,1,1,8,4,Youtube,1,3,Increased,NO,Online surfing,YES,NO,Roaming around freely
+R309,18,0,NA,NA,1,1,12,4,Instagram,0,3,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R310,21,3,Average,Laptop/Desktop,3,2,6.5,2,Youtube,2,2,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R311,22,1,Average,Smartphone,3,1,8,1,Instagram,0,2,Decreased,YES,Cooking,NO,NO,Roaming around freely
+R312,24,3,Very poor,Laptop/Desktop,4,0,6,3,Whatsapp,4,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R313,14,3,Average,Tablet,6,3,7,3,Instagram,1,2,Remain Constant,NO,"listening to music,reading books and dancing.",YES,YES,all of the above
+R314,16,4,Very poor,Smartphone,3,0,8,4,Youtube,0,4,Remain Constant,NO,Dont get distreessed,YES,NO,Nothing
+R315,19,1,Average,Laptop/Desktop,3,2,7,1,Instagram,2,2,Remain Constant,YES,Online gaming,NO,NO,School/college
+R316,21,5,Very poor,Laptop/Desktop,3,2,10,6,Youtube,1,3,Increased,YES,Online gaming,YES,NO,Eating outside
+R317,17,2,Average,Laptop/Desktop,5,0,8,4,Youtube,0,3,Remain Constant,NO," listening music, motion design, graphic design, sleeping.",YES,NO,Eating outside and friends.
+R318,16,4,Good,Smartphone,2,0.5,9,1,Instagram,0.1,3,Increased,NO,Sleeping,NO,YES,Colleagues
+R320,29,8,Good,Laptop/Desktop,2,1,8,0.5,Instagram,2,4,Remain Constant,NO,Web Series,NO,NO,Travelling
+R321,26,1,Good,Laptop/Desktop,4,0,6,6,Facebook,4,3,Remain Constant,NO,Talking,NO,YES,Travelling
+R322,21,5,Very poor,Smartphone,2,1,12,2,Instagram,1,4,Increased,NO,Listening to music,YES,NO,School/college
+R323,18,0,Very poor,Smartphone,0,2,7,6,Instagram,0,4,Increased,NO,Business,YES,YES,"Friends , relatives"
+R324,19,3,Very poor,Smartphone,0,0,12,5,Instagram,0,3,Decreased,NO,Online gaming,NO,NO,Eating outside
+R325,21,2,Average,Laptop/Desktop,2,1,10,2,Youtube,0.25,3,Remain Constant,NO,Sleep,YES,NO,School/college
+R326,12,1,Good,Laptop/Desktop,3,2,8,2,Youtube,1,4,Increased,NO,Reading,YES,YES,Colleagues
+R327,26,0,Very poor,Smartphone,1,1,7,1,Whatsapp,2,2,Decreased,NO,Online gaming,NO,YES,Travelling
+R328,20,6,Very poor,Laptop/Desktop,6,0,6,3,Whatsapp,0,4,Increased,NO,Reading books,NO,YES,School/college
+R329,16,4,Very poor,Smartphone,2,1,9,2,Youtube,1,2,Decreased,NO,Many among these,NO,NO,Travelling
+R330,21,0,Average,Laptop/Desktop,2,0,10,5,Twitter,1,3,Increased,NO,Listening to music,YES,NO,School/college
+R331,21,5,Average,Laptop/Desktop,2,0,8,0.5,Whatsapp,1,2,Increased,NO,Sleep,NO,YES,"Friends , relatives"
+R332,20,6,Average,Laptop/Desktop,4,0,7,1,Linkedin,0,3,Increased,NO,Cooking,YES,YES,School/college
+R333,21,0,Very poor,Laptop/Desktop,2,1,7,1,Instagram,0,4,Remain Constant,YES,Listening to music,YES,NO,Travelling
+R334,21,2,Average,Smartphone,2,1,7,1,Whatsapp,4,3,Remain Constant,NO,Online surfing,YES,NO,All above
+R335,19,1,Very poor,Laptop/Desktop,0,0,12,10,Instagram,2,2,Remain Constant,NO,Online gaming,NO,NO,Nothing
+R336,21,2,Average,Laptop/Desktop,2,0,8,2,Instagram,1,3,Remain Constant,YES,Reading books,NO,YES,Eating outside
+R337,14,5,Average,Smartphone,2.3,0,8,2,Youtube,3,2,Remain Constant,NO,Scrolling through social media,YES,YES,Travelling
+R338,22,1,Average,Laptop/Desktop,2,0,11,3,Whatsapp,3,2,Increased,YES,Dancing,NO,NO,"Friends , relatives"
+R339,19,2,Average,Smartphone,2.5,0,9,2,Facebook,1,3,Remain Constant,NO,Online surfing,NO,NO,"Nah, this is my usual lifestyle anyway, just being lazy...."
+R340,18,4,Average,Smartphone,1,1,12,1,Instagram,1,2,Increased,NO,Watching web series,NO,YES,All
+R341,16,8,Average,Laptop/Desktop,6,0,6,1,Youtube,0,4,Remain Constant,NO,Watching web series,YES,NO,"Friends , relatives"
+R342,43,2,Average,Smartphone,0,1,6,2,Facebook,0.5,3,Increased,NO,Talk with childhood friends.,NO,YES,Family
+R343,15,4,Very poor,Tablet,10,0,8,1,Twitter,1,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R344,32,1,Very poor,Laptop/Desktop,10,1,8,2,Twitter,0,3,Increased,NO,Reading books,YES,YES,School/college
+R345,15,3,Good,Laptop/Desktop,3,1,7,1,Youtube,2,2,Increased,NO,Sleeping,YES,YES,Colleagues
+R346,22,0,NA,NA,5,1,7,2,Youtube,1,4,Increased,NO,Watching web series,NO,YES,School/college
+R347,16,4,Average,NA,4,1,6,1,Whatsapp,1,3,Increased,NO,Listening to music,YES,YES,"Friends , relatives"
+R348,21,2,Very poor,NA,4,0,9,2,Whatsapp,0,4,Remain Constant,NO,Sleep,NO,YES,Travelling
+R349,14,5,Good,NA,2,1,9,1,Whatsapp,1,4,Increased,NO,Talking,NO,YES,School/college
+R350,19,2,Very poor,NA,1,1,11,3,Whatsapp,0,2,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R351,18,1.5,Average,NA,2,1,8,1,Whatsapp,0.5,2,Remain Constant,NO,Meditation,YES,YES,School/college
+R352,11,4,Average,NA,2,2,10,1,Whatsapp,3,4,Remain Constant,NO,Playing,NO,YES,Roaming around freely
+R353,24,0.5,Average,NA,2,0,8,1,Instagram,0,3,Remain Constant,NO,Watching web series,YES,YES,Eating outside
+R354,21,3,Average,Laptop/Desktop,3,1,8,2,Instagram,0,3,Increased,NO,Watching web series,NO,YES,Eating outside
+R355,15,5,Average,Smartphone,3,3,8,3,Instagram,2,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R356,34,2,Average,Laptop/Desktop,3,1,7,2,Twitter,1,3,Remain Constant,NO,Sleep,YES,YES,Travelling
+R357,17,0.75,Average,Smartphone,5,1,6,2,Youtube,2,1,Increased,YES,Reading books,NO,YES,School/college
+R358,12,1,Excellent,Smartphone,2,1,9,2,Youtube,1,3,Increased,NO,Online gaming,YES,YES,School/college
+R359,16,1,Average,Smartphone,2,1,7,2,Whatsapp,3,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R360,17,7,Average,Laptop/Desktop,8,1,6,1,Whatsapp,1,3,Increased,NO,Listening to music,YES,YES,School/college
+R361,14,2.5,Good,Smartphone,1,0.5,6,2,Youtube,1,2,Decreased,NO,Cooking,YES,YES,Colleagues
+R362,16,4,Average,Smartphone,5,1,6,2,Whatsapp,2,2,Remain Constant,NO,Dancing,YES,NO,Travelling
+R363,13,2,Excellent,Smartphone,1,3,11,3,Youtube,2,4,Increased,NO,Reading books,NO,YES,Eating outside
+R364,23,0,Average,Laptop/Desktop,2,0,7,3,Linkedin,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R365,21,6,Very poor,Smartphone,0,1,7,4,Instagram,1,4,Increased,NO,Listening to music,YES,YES,Only friends
+R366,31,4,Excellent,Laptop/Desktop,2,1,8,1,Facebook,1,3,Increased,NO,Sleep,YES,NO,School/college
+R367,23,5,Excellent,Smartphone,1,1,9,2,Whatsapp,0,4,Decreased,NO,Online gaming,YES,YES,Football
+R368,13,1,Excellent,Smartphone,5,3,6,2,Instagram,2,7,Increased,NO,Exercise,YES,YES,School/college
+R369,21,3,Average,Laptop/Desktop,0,1,8,3,Instagram,0,3,Increased,YES,Listening to music,NO,NO,School/college
+R370,17,6,Average,Laptop/Desktop,2.5,1,6,0,None,0.5,3,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R371,23,3,Good,Laptop/Desktop,3,0,7,2,Linkedin,0,3,Remain Constant,NO,Cooking,NO,YES,Travelling
+R372,13,1,Excellent,Smartphone,2,0,8,0,None,4,3,Increased,NO,Watching web series,YES,NO,"Friends , relatives"
+R373,20,1,Average,Laptop/Desktop,2.5,0,6,4,Instagram,1,3,Remain Constant,NO,Online gaming,YES,YES,Roaming around freely
+R374,13,0.5,Average,Smartphone,2,2,10,2,Youtube,0,3,Increased,NO,Online gaming,YES,NO,School/college
+R375,14,2,Excellent,Smartphone,1,1,8,1,Whatsapp,2,1,Increased,YES,Online gaming,YES,YES,School/college
+R376,40,1,Average,Laptop/Desktop,2,1,6,4,Whatsapp,0,2,Remain Constant,NO,Online surfing,NO,YES,Eating outside
+R377,12,1,Excellent,Smartphone,1.2,0.5,10,0,Whatsapp,2,3,Increased,NO,Talking to your relatives,YES,YES,"Friends , relatives"
+R378,20,3,Very poor,Laptop/Desktop,2,1,8,4,Linkedin,0,3,Remain Constant,YES,Listening to music,NO,YES,Travelling
+R379,12,1,Good,Smartphone,2,0.5,8,2,Whatsapp,2,4,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R380,21,3,Average,Laptop/Desktop,3,0,8,2,Instagram,0,4,Decreased,NO,Sleep,NO,YES,Travelling
+R381,42,4,Good,Laptop/Desktop,3,0,7,1,Facebook,0.5,2,Increased,NO,Social Media,YES,YES,Travelling
+R382,20,3,Good,Smartphone,4,2,7,4,Whatsapp,0.5,4,Remain Constant,YES,Talking,NO,YES,School/college
+R383,28,0,NA,NA,4,2,7,2,Twitter,2,2,Decreased,NO,Meditation,YES,YES,Travelling
+R384,40,2,Good,NA,1,1,8,1,Whatsapp,1,2,Remain Constant,NO,Web Series,YES,YES,Travelling
+R385,14,3,Excellent,NA,2,0,12,2,Facebook,3,1,Decreased,NO,Online gaming,NO,NO,School/college
+R386,12,1,Average,NA,1,0,12,1,Youtube,1,1,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R387,14,4,Average,NA,2,1,8,2,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R388,22,0,Average,NA,0,0,9,2,Linkedin,2,3,Remain Constant,NO,Talking to friends,NO,NO,Roaming around freely
+R389,40,4,Average,NA,4,0,8,2,Whatsapp,1,3,Increased,NO,Listening to music,NO,YES,Travelling
+R390,21,4,Very poor,NA,3,1,6,2,Youtube,5,2,Remain Constant,NO,Meditation,NO,YES,Normal life
+R391,23,3,Good,Smartphone,1,0,6,2,Whatsapp,3,3,Remain Constant,NO,Listening to music,NO,YES,Colleagues
+R392,12,2,Excellent,Smartphone,2,1,10,1,Youtube,1,4,Remain Constant,NO,Reading books,YES,YES,School/college
+R393,17,2,Excellent,Smartphone,3,1,6,2,Whatsapp,2,1,Increased,NO,Talking to your relatives,YES,YES,School/college
+R394,18,1,Average,Laptop/Desktop,1,0,8,4,Instagram,0,3,Decreased,NO,Watching web series,YES,YES,Roaming around freely
+R395,20,1,Average,Laptop/Desktop,2,2,9,4,Instagram,5,2,Remain Constant,NO,Listening to music,YES,NO,Travelling
+R396,17,5,Average,Smartphone,3,1,6,1,Facebook,2,1,Remain Constant,NO,Online gaming,YES,YES,School/college
+R397,20,1,Average,Laptop/Desktop,4,0,8,3,Instagram,0,3,Remain Constant,NO,Watching web series,NO,NO,"Friends , relatives"
+R398,20,3,Very poor,Laptop/Desktop,4,1,8,2,Whatsapp,0.5,4,Remain Constant,NO,Cooking,YES,YES,Roaming around freely
+R399,19,0.75,Poor,Laptop/Desktop,2,1,6,4,Youtube,0,2,Remain Constant,NO,"Netflix, Friends and Books",NO,YES,"Friends , relatives"
+R400,20,4,Good,Laptop/Desktop,2,0,11,1,Whatsapp,0,3,Increased,NO,Listening to music,NO,YES,Travelling
+R401,16,2,Excellent,Smartphone,5,1,8,4,Whatsapp,4,3,Increased,NO,Online gaming,YES,YES,School/college
+R402,13,3,Excellent,Smartphone,2,0,8,1,Youtube,0,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R403,20,0,Good,Laptop/Desktop,4,1,7,4,Youtube,2,3,Remain Constant,YES,Web Series,NO,YES,Travelling
+R404,14,3,Excellent,Smartphone,2,0,10,1,Youtube,1,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R405,17,2,Good,Smartphone,1,1,8,3,Facebook,2,3,Decreased,NO,Online gaming,YES,YES,Travelling
+R406,20,1,Very poor,Laptop/Desktop,1,0,12,2,Twitter,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R407,17,7,Excellent,Smartphone,1,1,4,1,Youtube,0,1,Decreased,NO,Cooking,YES,YES,School/college
+R408,13,2,Excellent,Smartphone,1,1,6,2,Whatsapp,0,1,Decreased,YES,Reading books,YES,YES,School/college
+R409,13,1,Good,Smartphone,2,1,8,3,Youtube,0.5,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R410,20,2,Very poor,Laptop/Desktop,4,1,8,2,Instagram,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R411,27,0,Good,Laptop/Desktop,2,0,10,6,Whatsapp,6,3,Decreased,NO,Online gaming,NO,YES,Colleagues
+R412,20,1,Good,Laptop/Desktop,0,1,7,2,Instagram,0,3,Decreased,NO,Web Series,YES,NO,Eating outside
+R413,20,5,Very poor,Laptop/Desktop,3,1,7,4,Twitter,0,3,Decreased,NO,Listening to music,YES,YES,Roaming around freely
+R414,17,4,Average,Smartphone,1,1,8,5,Youtube,0.3,2,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R415,27,3,Excellent,Laptop/Desktop,2,2,7,1,Instagram,0,3,Decreased,YES,Listening to music,YES,YES,Travelling
+R416,14,1,Good,Smartphone,3,1,9,1,None,0,3,Increased,NO,Online gaming,YES,YES,School/college
+R417,9,1,Average,Laptop/Desktop,1,0,8,0,Youtube,1,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R418,14,5,Average,Smartphone,1,1,7,1,Whatsapp,4.5,2,Decreased,NO,Watching web series,NO,YES,"Friends , relatives"
+R419,36,2,Excellent,Tablet,3,1,7,5,Youtube,3,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R420,8,2,Excellent,Laptop/Desktop,2,1,8,1,Whatsapp,2,3,Remain Constant,NO,Dancing,YES,YES,Roaming around freely
+R421,20,2,Average,Laptop/Desktop,1,1,7,1,Whatsapp,1,2,Remain Constant,NO,Watching web series,YES,YES,School/college
+R422,12,2,Average,Laptop/Desktop,1,1,7,2,Instagram,2,2,Increased,NO,Sleeping,YES,YES,"Friends , relatives"
+R423,19,8,Excellent,Laptop/Desktop,10,1,6,1,Linkedin,0,4,Remain Constant,NO,Online gaming,YES,YES,School/college
+R424,24,0,Excellent,Laptop/Desktop,3,1,8,3,Instagram,0,3,Decreased,NO,Online gaming,YES,NO,Travelling
+R425,20,2,Average,Laptop/Desktop,2,2,8,3,Instagram,0,3,Remain Constant,NO,Watching web series,YES,YES,Roaming around freely
+R426,22,1,Very poor,Smartphone,3,0,7,3,Youtube,2,3,Remain Constant,NO,Watching web series,NO,YES,Roaming around freely
+R427,20,3,Very poor,Laptop/Desktop,0,1,9,4,Youtube,4,4,Decreased,NO,Sleeping,NO,YES,"Friends , relatives"
+R428,12,1,Excellent,Smartphone,3,1,6,1,Youtube,1,1,Remain Constant,NO,Cooking,NO,YES,"Friends , relatives"
+R429,21,0,Very poor,Laptop/Desktop,1,0,6,6,Instagram,1,3,Remain Constant,YES,Scrolling through social media,NO,NO,School/college
+R430,20,2,Average,Laptop/Desktop,3,2,7,3,Instagram,1,2,Decreased,NO,Talking to your relatives,YES,YES,Roaming around freely
+R431,32,1,Average,Smartphone,0,0,14,2,Facebook,2,3,Remain Constant,NO,Watching web series,NO,YES,School/college
+R432,28,4,Good,Laptop/Desktop,4,1,12,2,Youtube,0,3,Decreased,NO,Social Media,YES,YES,Travelling
+R433,21,2,Very poor,Laptop/Desktop,0,1,12,5,Instagram,5,4,Remain Constant,NO,Listening to music,NO,NO,School/college
+R434,21,2,Average,Laptop/Desktop,2,1,8,2,Whatsapp,2,3,Remain Constant,YES,Watching web series,YES,YES,"Friends , relatives"
+R435,15,5,Average,Laptop/Desktop,3,1,10,3,Instagram,1,4,Remain Constant,NO,Listening to music,YES,YES,All
+R436,19,1,Very poor,Laptop/Desktop,0,1,9,8,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,"Friends , relatives"
+R437,19,3,Very poor,Laptop/Desktop,1,0,5,1,Youtube,2,3,Increased,NO,Watching web series,NO,YES,School/college
+R438,18,3,Very poor,Smartphone,2,0,8,2,Instagram,0.5,3,Remain Constant,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R439,14,7,Very poor,Tablet,3,0,8,0,None,1,2,Decreased,NO,Sleeping,NO,NO,Travelling
+R440,18,1,Excellent,Smartphone,2,1,8,1,Facebook,0,2,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R441,50,2,Good,Smartphone,2,0,6,2,Youtube,1,3,Remain Constant,NO,Listening to music,YES,NO,School/college
+R442,20,0.7,Very poor,Laptop/Desktop,3.5,0.5,8,3,Instagram,0.6,4,Increased,NO,Reading books,YES,YES,Roaming around freely
+R443,16,2,Very poor,Laptop/Desktop,2,1,9,2,Instagram,0.5,2,Remain Constant,YES,Listening to music,NO,YES,Roaming around freely
+R444,13,2,Good,Smartphone,1,0,11,2,Youtube,3,2,Increased,YES,Social Media,NO,NO,School/college
+R445,20,3,Very poor,Laptop/Desktop,4,1,8,2,Twitter,0,3,Remain Constant,NO,Reading books,YES,YES,Eating outside
+R446,21,0,Very poor,Laptop/Desktop,2,1,7,2,Whatsapp,7,3,Increased,NO,Watching web series,NO,NO,"Friends , relatives"
+R447,14,3,Excellent,Laptop/Desktop,5,2,10,3,Facebook,3,3,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R448,20,0,Very poor,Laptop/Desktop,2,0,7,5,Instagram,0,2,Decreased,YES,Listening to music,NO,YES,"Friends , relatives"
+R449,22,3,Average,Laptop/Desktop,2,0,7,3,Youtube,0,3,Increased,NO,Reading books,YES,YES,Eating outside
+R450,13,0.75,Excellent,Smartphone,2,0,7,1,Youtube,0,1,Remain Constant,NO,Reading books,YES,NO,School/college
+R451,13,3,Good,Smartphone,3,1,8,1,Whatsapp,0.5,2,Increased,NO,Online gaming,YES,YES,School/college
+R452,16,6,Good,Smartphone,3,1,6,1,Youtube,1,1,Decreased,NO,Talking,YES,YES,Colleagues
+R453,35,4,Average,Smartphone,2,1,6,0.5,Facebook,1,2,Remain Constant,NO,Online surfing,NO,YES,Roaming around freely
+R454,45,3,Excellent,Laptop/Desktop,4,1,8,2,Youtube,1,3,Increased,NO,Meditation,YES,YES,"Friends , relatives"
+R455,16,0,Good,Smartphone,0,2,6,1,Facebook,4,2,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R456,20,4,Very poor,Laptop/Desktop,6,0,8,0,Youtube,0,2,Remain Constant,NO,Reading books,YES,YES,School/college
+R457,21,0,Poor,Laptop/Desktop,9,0,7,2,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R458,23,6,Average,Laptop/Desktop,4,1,9,1,Instagram,0,4,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R459,21,2,Average,Laptop/Desktop,4,1,8,8,Instagram,1,2,Increased,NO,Scrolling through social media,YES,YES,School/college
+R460,20,7,Good,Laptop/Desktop,2,0,8,4,Facebook,3,4,Increased,NO,Social Media,NO,NO,Travelling
+R461,19,0,Very poor,Smartphone,5,0.5,7,4,Instagram,0,3,Remain Constant,NO,Reading books,YES,YES,Travelling
+R462,18,4,Very poor,Smartphone,2,1,12,2,Instagram,0,3,Remain Constant,NO,Listening to music,YES,NO,"Friends , relatives"
+R463,30,0,NA,NA,0.5,0,7,1,Youtube,0.5,2,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R464,18,2,Good,NA,3,1,7,2,Whatsapp,1,3,Remain Constant,YES,Online gaming,YES,YES,Travelling
+R465,21,2,Average,NA,4,1,10,8,Instagram,1,3,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R466,13,4,Good,NA,2,2,8,2,Youtube,2,2,Decreased,NO,Cooking,YES,YES,School/college
+R467,22,1,Average,NA,3,3,8,3,Instagram,3,4,Increased,NO,Sleeping,YES,YES,Roaming around freely
+R468,21,1,Very poor,NA,0,0,8,2,Instagram,1,3,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R469,21,2,Good,NA,6,0,6.5,0.5,Whatsapp,0,3,Increased,NO,Web Series,YES,YES,Travelling
+R470,21,2,Very poor,NA,1,0,13,6,Twitter,7,2,Decreased,YES,Listening to music,NO,NO,School/college
+R471,20,5,Good,Laptop/Desktop,7,0,6,1,Linkedin,0,4,Increased,NO,Web Series,YES,YES,Travelling
+R472,20,0,Very poor,Laptop/Desktop,10,4,6,2,Whatsapp,0,7,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R473,20,4,Very poor,Laptop/Desktop,5,1,9,2,Youtube,0,4,Increased,NO,Listening to music,NO,YES,Eating outside
+R474,19,4,Average,Laptop/Desktop,0,0,8,6,Instagram,1,3,Increased,NO,Online gaming,NO,YES,School/college
+R475,19,0,Good,Laptop/Desktop,3,1,8,3,Instagram,1,3,Increased,NO,Social Media,NO,NO,School/college
+R476,7,2,Good,Smartphone,2,1,9,1,Whatsapp,2,3,Increased,NO,Online gaming,NO,YES,Travelling
+R477,21,2,Average,Laptop/Desktop,0,1,7,3,Instagram,0,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R478,23,4,Very poor,Laptop/Desktop,10,1,7,1,Whatsapp,0,2,Decreased,NO,Listening to music,YES,YES,Travelling
+R479,20,5,Very poor,Laptop/Desktop,2,0,13,4,Instagram,0,2,Increased,NO,Scrolling through social media,NO,NO,School/college
+R480,20,4,Very poor,Smartphone,4,0,8,4,Instagram,3,3,Remain Constant,NO,Online gaming,YES,YES,Eating outside
+R481,19,4,Very poor,Laptop/Desktop,3,1,8,3,Whatsapp,2,3,Increased,NO,Meditation,YES,YES,School/college
+R482,20,4,Very poor,Laptop/Desktop,2,1,8,2,Youtube,0,3,Increased,NO,Dancing,YES,YES,"Friends , relatives"
+R483,18,4,Average,Smartphone,1,0,9,4,Whatsapp,1,3,Decreased,YES,Online gaming,NO,YES,Eating outside
+R484,21,4,Very poor,Tablet,0,3,11,10,Snapchat,0,1,Decreased,NO,Meditation,NO,NO,Travelling
+R485,18,6,Very poor,Laptop/Desktop,6,1,6,1,Instagram,0.5,5,Remain Constant,YES,Listening to music,YES,YES,School/college
+R486,21,6,Excellent,Laptop/Desktop,6,1,6,1,Instagram,0,4,Decreased,NO,Driving,NO,YES,Roaming around freely
+R487,19,2,Very poor,Laptop/Desktop,3,0,7,3,Whatsapp,2,2,Increased,NO,Online surfing,NO,NO,School/college
+R488,19,0,Average,Laptop/Desktop,1,0.5,8,1,Instagram,0,3,Increased,NO,Scrolling through social media,NO,YES,Nothing
+R489,22,2,Average,Laptop/Desktop,2,0,8,1,Instagram,1,3,Remain Constant,YES,Reading books,NO,NO,School/college
+R490,21,3,Average,Laptop/Desktop,7,3,6,1,Whatsapp,0,3,Remain Constant,NO,Meditation,YES,NO,School/college
+R491,24,2,Poor,Smartphone,6,0,6,3,Whatsapp,0.5,4,Decreased,NO,Listening to music,NO,NO,School/college
+R492,20,4,Very poor,Laptop/Desktop,4,0,8,2,Whatsapp,0,1,Remain Constant,NO,Reading books,NO,NO,School/college
+R493,20,2,Average,Smartphone,2,0,12,4,Instagram,0,3,Remain Constant,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R494,24,5,Average,Laptop/Desktop,2,0,6,3,Instagram,0,4,Increased,NO,Watching web series,NO,YES,Eating outside
+R495,21,5,Average,Laptop/Desktop,6,0,7,2,Linkedin,0.5,3,Increased,NO,Online surfing,YES,YES,School/college
+R496,20,3,Very poor,Laptop/Desktop,6,2,5,3,Youtube,0,3,Remain Constant,NO,I run,YES,YES,Travelling
+R497,22,5,Very poor,Smartphone,0,1,8,4,Facebook,0,3,Remain Constant,NO,Online surfing,NO,YES,Eating outside
+R498,20,7,Very poor,Laptop/Desktop,0,1,6,2,Facebook,1,4,Remain Constant,NO,Online gaming,NO,YES,Roaming around freely
+R499,20,0.5,Very poor,Smartphone,3,1,10,3,Instagram,2,2,Increased,YES,Scrolling through social media,NO,NO,"Friends , relatives"
+R500,19,0,NA,NA,8,1,8,0,None,0,2,Remain Constant,NO,Online surfing,NO,NO,"Friends , relatives"
+R501,22,0.5,Very poor,Laptop/Desktop,1,1,8,3,Instagram,0,4,Increased,NO,Online gaming,NO,NO,Roaming around freely
+R502,21,4,Average,Laptop/Desktop,1,0,10,2,Whatsapp,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R503,19,3,Very poor,Laptop/Desktop,2,1,6,2,Instagram,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R504,13,3,Average,Smartphone,2,1,7,2,Whatsapp,0,3,Decreased,NO,Dancing,YES,YES,"Friends , relatives"
+R505,10,4,Average,Smartphone,2,1,8,1,Whatsapp,2,3,Remain Constant,NO,Dancing,YES,YES,School/college
+R506,21,4,Very poor,Laptop/Desktop,2,0,6,1,Youtube,0,3,Increased,NO,Online surfing,NO,YES,Travelling
+R507,20,2,Very poor,Laptop/Desktop,3,0,11,1,Whatsapp,1,3,Remain Constant,NO,Sleeping,NO,NO,School/college
+R508,22,1,Very poor,Smartphone,2,1,6,2,Instagram,0,3,Increased,NO,Online surfing,YES,YES,School/college
+R509,20,4,Average,Laptop/Desktop,0,0,12,2,Instagram,2,3,Increased,NO,Scrolling through social media,NO,NO,Roaming around freely
+R510,20,0,Poor,Laptop/Desktop,2,0,10,4,Instagram,0,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R511,20,0,Average,Laptop/Desktop,1,1,8,4,Whatsapp,0,3,Increased,NO,Sleeping,NO,YES,School/college
+R512,21,0,Average,Smartphone,4,1,7,2,Facebook,4,4,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R513,19,4,Very poor,Laptop/Desktop,3,2,8,2,Instagram,1,4,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R514,13,2,Excellent,Smartphone,2,1,6,6,Instagram,8,4,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R515,20,2,Average,Laptop/Desktop,3,0,7,5,Instagram,6,2,Increased,NO,Online gaming,NO,NO,Eating outside
+R516,17,2,Average,Smartphone,5,3,5,1,Whatsapp,0.5,3,Decreased,NO,Running,NO,YES,School/college
+R517,11,1,Good,Laptop/Desktop,1,1,15,3,Youtube,1,4,Increased,NO,Listening to music,YES,YES,School/college
+R518,17,2,Excellent,Smartphone,3,1,8,3,Whatsapp,1,2,Increased,NO,Listening to music,YES,YES,School/college
+R519,17,1,Average,Smartphone,2,0,8,1,Youtube,1,2,Decreased,NO,Talking to your relatives,NO,YES,School/college
+R520,19,4,Very poor,Laptop/Desktop,5,0,8,3,Twitter,2,3,Increased,NO,Watching web series,NO,YES,School/college
+R521,20,6,Good,Laptop/Desktop,5,2,6,10,Twitter,15,3,Remain Constant,NO,Talking,YES,YES,School/college
+R522,18,3,Good,Laptop/Desktop,4,2,7,2,Youtube,2,3,Increased,NO,Dancing,YES,YES,Travelling
+R523,20,4,Average,Laptop/Desktop,3,0,8,4,Youtube,2,4,Increased,NO,Listening to music,NO,YES,Eating outside
+R524,19,0,Very poor,Laptop/Desktop,1,0,9,6,Twitter,0,4,Increased,NO,Sleeping,NO,NO,Travelling
+R525,17,3,Average,Smartphone,3,3,9,2,Youtube,0,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R526,19,0,Very poor,Smartphone,0,1,10,7,Youtube,1,3,Increased,YES,Online gaming,NO,YES,School/college
+R527,21,1,Average,Laptop/Desktop,8,2,8,2,Whatsapp,1,3,Remain Constant,YES,Online gaming,NO,NO,Roaming around freely
+R528,34,2,Average,Laptop/Desktop,1,0,7,6,Whatsapp,6,3,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R529,15,4,Very poor,Smartphone,4,0,7,1,Youtube,2,3,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R530,19,2,Very poor,Laptop/Desktop,0,1,12,2,Instagram,1,3,Decreased,YES,Listening to music,NO,NO,Travelling
+R531,24,0,NA,NA,1,0,10,6,Instagram,3,4,Increased,NO,Listening to music,NO,NO,School/college
+R532,17,6,Average,Smartphone,4,0,7,9,Youtube,0.5,2,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R533,26,2,Very poor,Laptop/Desktop,1,1,8,4,Facebook,0,3,Decreased,NO,Scrolling through social media,NO,YES,Travelling
+R534,20,0,Very poor,Laptop/Desktop,1,1,7,0.5,Instagram,0.5,3,Increased,NO,Reading books,YES,YES,School/college
+R535,22,3,Average,Laptop/Desktop,6,2,8,4,Instagram,1,4,Remain Constant,NO,Cooking,YES,YES,"Friends , relatives"
+R536,20,6,Poor,Laptop/Desktop,2,2,8,1,Instagram,0,3,Decreased,NO,Listening to music,YES,NO,Roaming around freely
+R537,21,4,Very poor,Laptop/Desktop,2,2,8,4,Youtube,4,3,Decreased,NO,Watching web series,YES,YES,"Friends , relatives"
+R538,14,3,Good,Smartphone or Laptop/Desktop,2,0,6,1,Whatsapp,1,1,Increased,NO,Listening to music,YES,YES,School/college
+R539,20,5,Very poor,Laptop/Desktop,6,1,7,2,Youtube,0,3,Remain Constant,NO,Watching web series,NO,YES,Eating outside
+R540,19,2,Excellent,Smartphone,2,1,10,2,Youtube,1,2,Remain Constant,NO,Sleeping,YES,YES,School/college
+R541,44,3,Average,Smartphone,4,0,6,1,Facebook,1,2,Remain Constant,NO,Reading books,YES,YES,Roaming around freely
+R542,20,1,Very poor,Tablet,2,3,8,2,Whatsapp,2,2,Decreased,NO,Reading books,YES,YES,"Friends , relatives"
+R543,22,3,Average,Laptop/Desktop,6,1,6,3,Whatsapp,2,3,Remain Constant,NO,Sleeping,NO,YES,The idea of being around fun loving people but this time has certainly made us all to reconnect (and fill the gap if any) with our families and relatives so it is fun but certainly we do miss hanging out with friends
+R544,21,1,Poor,Smartphone,4,1,8,4,Youtube,0,3,Remain Constant,NO,Online surfing,YES,YES,School/college
+R545,20,5,Very poor,Laptop/Desktop,2,0,8,1,Linkedin,2,3,Remain Constant,NO,Online surfing,YES,YES,"Friends , relatives"
+R546,18,4,Very poor,Tablet,4,0,9,2,Instagram,2,3,Remain Constant,NO,Watching web series,NO,YES,Travelling
+R547,15,1,Good,Smartphone,2,1,8,1,Whatsapp,2,2,Increased,NO,Meditation,NO,YES,School/college
+R548,19,2,Average,Smartphone,0,0,8,10,Instagram,1,2,Decreased,NO,Online gaming,NO,YES,"Friends , relatives"
+R549,24,2,Average,Smartphone,2,0,6,3,Whatsapp,0,2,Decreased,NO,Sleeping,NO,NO,School/college
+R550,16,7,Average,Smartphone,4,1,6,1,Whatsapp,0,4,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R551,21,0,Poor,Smartphone,8,0,7,2,Whatsapp,0.5,3,Remain Constant,YES,Online surfing,YES,NO,School/college
+R552,17,4,Good,Smartphone,3,3,6,5,Instagram,No tv,4,Decreased,NO,Exercise,YES,YES,All
+R553,15,5,Good,Smartphone,2,1,7,0,Youtube,0,2,Increased,NO,Online gaming,NO,YES,Colleagues
+R554,16,2,Very poor,Smartphone,1,0,9,1,Whatsapp,0,3,Decreased,NO,Reading books,NO,YES,School/college
+R555,21,6,Average,Laptop/Desktop,2,1,7,1.5,Youtube,1.5,3,Remain Constant,NO,Watching web series,NO,YES,My normal routine
+R556,13,2,Excellent,Smartphone,2,1,9,2,Facebook,1,3,Increased,NO,Scrolling through social media,YES,NO,School/college
+R557,22,3,Very poor,Smartphone,2,1,9,1,Whatsapp,1,4,Remain Constant,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R558,15,4,Average,Laptop/Desktop,4,1,11,1,Instagram,2,5,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R559,26,0.5,Very poor,Smartphone,1,0,6,1,Whatsapp,1,3,Decreased,YES,Sleeping,NO,NO,School/college
+R560,21,0,Very poor,Laptop/Desktop,2,0,10,6,Youtube,0,2,Remain Constant,NO,Online gaming,NO,YES,"Friends , relatives"
+R561,13,1,Good,Smartphone,1,1,8,1,Youtube,2,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R562,21,3,Average,Laptop/Desktop,0,2,8,2,Instagram,2,3,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R563,21,3,Very poor,Smartphone,1,1,8,2,Instagram,0,3,Increased,NO,Watching web series,YES,YES,Travelling
+R564,17,2,Average,Smartphone,1,1,8,7,Instagram,0,4,Increased,NO,Watching web series,NO,YES,Roaming around freely
+R565,20,1,Good,Smartphone,3,1,8,3,Youtube,1,4,Remain Constant,NO,Reading,NO,YES,School/college
+R566,18,3,Good,Smartphone,2,0,8,1,Youtube,1,3,Decreased,NO,Listening to music,YES,NO,School/college
+R567,19,2,Very poor,Laptop/Desktop,8,0,8,1,Youtube,0,4,Decreased,YES,Sleeping,NO,NO,Eating outside
+R568,21,4,Average,Laptop/Desktop,4,1,8,3,Instagram,1,3,Increased,NO,Listening to music,NO,NO,School/college
+R569,20,8,Excellent,Smartphone,8,1,7,2,Youtube,1,4,Increased,NO,Watching web series,YES,YES,Roaming around freely
+R570,21,8,Good,Laptop/Desktop,2,1,7,1,Whatsapp,0,3,Remain Constant,NO,Talking,YES,YES,Eating outside
+R571,32,2,Good,Smartphone,0,0,11,1,Whatsapp,3,4,Remain Constant,NO,Meditation,NO,NO,Eating outside
+R572,19,4,Good,Laptop/Desktop,4,2,8,6,Instagram,6,3,Increased,NO,Meditation,NO,YES,Travelling
+R573,18,2,Very poor,Smartphone,0,3,8,1,Twitter,0,3,Increased,NO,Exercising,NO,YES,ALL
+R574,23,0,NA,NA,1,0,9,3,Instagram,2,2,Remain Constant,NO,Scrolling through social media,NO,YES,Roaming around freely
+R575,18,0,Very poor,Smartphone,0,0,7,3,Instagram,2,4,Remain Constant,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R576,19,2,Very poor,Laptop/Desktop,1,2,8,3,Instagram,2,4,Increased,NO,Sleeping,YES,NO,School/college
+R577,19,2,Very poor,Smartphone,2,0,8,1.5,Instagram,1,2,Decreased,NO,Watching web series,NO,YES,Roaming around freely
+R578,19,3,Excellent,Laptop/Desktop,0,0,9,6,Whatsapp,0,2,Remain Constant,YES,Meditation,YES,YES,Nothing
+R579,23,4,Very poor,Smartphone,4,1,8,2,Youtube,2,2,Increased,NO,Cooking,NO,YES,Eating outside
+R580,25,0,NA,NA,2,1,9,2,Whatsapp,1,2,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R581,22,4,Very poor,Laptop/Desktop,1,0,9,1,Youtube,1,4,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R582,12,6,Good,Tablet,4,0,7,1,Youtube,2,4,Increased,NO,Online gaming,NO,YES,School/college
+R583,8,2,Excellent,Laptop/Desktop,1,1,5,1,Youtube,1,2,Remain Constant,NO,Sleeping,YES,YES,School/college
+R584,17,0.75,Excellent,Smartphone,4,1,7,1,Whatsapp,0.3,2,Decreased,NO,Sleeping,YES,YES,School/college
+R585,21,3,Excellent,Laptop/Desktop,1,0,11,3,Twitter,2,1,Remain Constant,NO,Reading books,YES,NO,Eating outside
+R586,14,3,Average,Smartphone,2,2,7,2,Whatsapp,2,3,Remain Constant,NO,Online gaming,YES,NO,School/college
+R587,20,4,Very poor,Smartphone,3,0,8,1,Facebook,0,1,Increased,NO,Scrolling through social media,NO,YES,NOTHING
+R588,22,0,Very poor,Smartphone,2,1,6,0.5,Youtube,0,1,Decreased,NO,Talking to your relatives,YES,YES,Roaming around freely
+R589,13,6,Average,Tablet,3,1,10,1,Snapchat,6,3,Remain Constant,NO,Talking to your relatives,YES,YES,ALL
+R590,21,2,Very poor,Smartphone,0.5,1,8,1,Youtube,0,4,Increased,NO,Listening to music,YES,YES,Travelling
+R591,36,3,Excellent,Laptop/Desktop,2,0,8,2,Facebook,0,3,Remain Constant,NO,Reading books,NO,YES,Eating outside
+R592,13,4,Good,Any Gadget,3,1,9,3,Instagram,2,2,Decreased,NO,Cooking,YES,YES,Colleagues
+R593,24,2,Average,Smartphone,1,1,7,4,Instagram,0,3,Remain Constant,NO,Football,YES,YES,School/college
+R594,46,2,Very poor,Smartphone,0.5,0.25,7,1,Whatsapp,1,3,Remain Constant,NO,Cooking,NO,NO,Travelling
+R595,16,5,Good,Laptop/Desktop,8,0.5,6,0.4,Instagram,0,3,Remain Constant,NO,Online gaming,YES,NO,Colleagues
+R596,25,2,Good,Laptop/Desktop,3,0,7,2,Linkedin,3,2,Remain Constant,NO,Talking,YES,YES,Eating outside
+R597,24,6,Good,Laptop/Desktop,8,0,9,2,Youtube,0,3,Decreased,YES,Reading,YES,YES,Colleagues
+R598,17,4,Very poor,Smartphone,2,0,10,3,Facebook,4,2,Remain Constant,NO,Online surfing,YES,YES,School/college
+R599,16,1,Average,Smartphone,2,0,10,2,Youtube,3,4,Remain Constant,NO,Online gaming,NO,YES,School/college
+R600,20,3,Very poor,Laptop/Desktop,6,1,8,3,Instagram,1,4,Increased,NO,Online surfing,YES,YES,School/college
+R601,40,5,Very poor,Laptop/Desktop,3,0,6,3,Whatsapp,0,3,Increased,YES,Sleeping,YES,YES,Being social
+R602,32,1,Average,Laptop/Desktop,2,0.5,7,3,Whatsapp,0,3,Increased,YES,Scrolling through social media,NO,YES,Roaming around freely
+R603,14,5,Average,Smartphone,2,0,9,1,Whatsapp,2,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R604,18,4,Average,Laptop/Desktop,2,3,7,4,Instagram,1,2,Decreased,NO,Online surfing,NO,NO,School/college
+R605,52,0,Good,Laptop/Desktop,2,1,8,2,Youtube,0,4,Remain Constant,NO,Reading,YES,YES,Colleagues
+R606,21,1,Very poor,Laptop/Desktop,8,0,8,2,Youtube,2,2,Decreased,YES,Scrolling through social media,YES,NO,"Friends , relatives"
+R608,21,6,Very poor,Laptop/Desktop,3,0,8,4,Linkedin,1,3,Increased,YES,Listening to music,NO,NO,Eating outside
+R609,21,4,Average,Laptop/Desktop,3,0,8,2,Whatsapp,1,3,Decreased,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R610,22,1,Very poor,Laptop/Desktop,10,2,7,1,Whatsapp,0,3,Remain Constant,NO,Writing,YES,YES,Roaming around freely
+R611,19,0,Very poor,Smartphone,4,0,8,4,Instagram,0,1,Increased,NO,Reading books,NO,NO,"Friends , relatives"
+R612,14,4,Good,Smartphone,1,1,8,1,Facebook,0.5,2,Increased,NO,Social Media,YES,NO,Colleagues
+R613,18,1,Average,Smartphone,2,0,7,1,Whatsapp,0,3,Decreased,YES,Cooking,NO,YES,School/college
+R614,17,2,Excellent,Smartphone,3,2,10,1,Youtube,1,2,Increased,NO,Watching web series,YES,YES,"Friends , relatives"
+R615,21,2,Average,Laptop/Desktop,0,0,7,5,Youtube,0,3,Decreased,NO,Online gaming,NO,YES,Travelling
+R616,22,2,Very poor,Laptop/Desktop,2,0,6,5,Instagram,0,2,Increased,NO,Online surfing,YES,YES,School/college
+R617,15,3,Very poor,Smartphone,2,0,10,1,Youtube,2,2,Increased,NO,Online surfing,NO,YES,School/college
+R618,25,6,Good,Laptop/Desktop,0,1,7,3,Instagram,0,2,Increased,NO,Web Series,NO,YES,Colleagues
+R619,17,2,Excellent,Smartphone,3,1,8,1,Facebook,2,1,Increased,NO,Sleeping,YES,YES,School/college
+R620,25,1,Average,Laptop/Desktop,4,0.5,9,2,Whatsapp,5,3,Increased,NO,Online surfing,NO,YES,School/college
+R621,22,1,Very poor,Smartphone,0,0,6,2,Instagram,2,3,Increased,YES,Watching web series,NO,NO,School/college
+R622,21,0,Very poor,Smartphone,3,0,8,4,Instagram,1,3,Remain Constant,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R623,20,1,Good,Laptop/Desktop,3,1,12,3,Youtube,2,4,Remain Constant,NO,Reading,YES,YES,School/college
+R624,21,2,Good,Smartphone,5,0,12,3,Youtube,,4,Remain Constant,NO,Listening to music,NO,NO,Travelling
+R625,13,3.5,Good,Smartphone,2,2,9,1,Whatsapp,6,1,Increased,YES,Listening to music,YES,YES,Colleagues
+R626,32,6,Good,Laptop/Desktop,2,1,5,2,Youtube,2,2,Increased,NO,Dancing,YES,YES,Travelling
+R627,34,2,Average,Laptop/Desktop,2,1,7,4,Facebook,2,2,Remain Constant,NO,Cooking,NO,NO,"Friends , relatives"
+R628,22,0,Very poor,Smartphone,1,0,8,5,Whatsapp,1.5,3,Remain Constant,NO,Reading books,NO,NO,Roaming around freely
+R629,21,4,Average,Laptop/Desktop,4,1,6,1,Linkedin,1,3,Remain Constant,YES,Meditation,YES,NO,School/college
+R630,17,1,Good,Smartphone,1,1,8,2,Instagram,1,3,Increased,NO,Web Series,NO,YES,School/college
+R631,13,4,Excellent,Smartphone,5,1,13,2,Whatsapp,3,2,Decreased,YES,Reading books,YES,YES,"Friends , relatives"
+R632,30,4,Average,Laptop/Desktop,3,1,7,1,Youtube,1,3,Remain Constant,NO,singing,NO,NO,School/college
+R633,21,2,Average,Smartphone,1,1,9,2,Youtube,2,3,Remain Constant,NO,Watching web series,NO,YES,School/college
+R634,28,3,Good,Laptop/Desktop,4,1,9,2,Youtube,0,3,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R635,21,4,Very poor,Laptop/Desktop,3,0,6,2,Instagram,0,2,Remain Constant,NO,Online gaming,NO,NO,Eating outside
+R636,15,2,Excellent,Smartphone,5,3,11,1,Whatsapp,1,4,Increased,NO,Reading books,NO,YES,School/college
+R637,16,1,Good,Smartphone,1,1,7,2,Youtube,2,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R638,40,3,Average,Smartphone,1,0.5,7,4,Instagram,1,3,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R639,43,2,Good,Laptop/Desktop,2,1,7,1,Whatsapp,1,2,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R640,25,1,Average,Smartphone,2,0,10,1,Whatsapp,1,3,Increased,NO,Cooking,NO,YES,School/college
+R641,24,0,NA,NA,1,0,8,2,Linkedin,1,3,Increased,NO,Scrolling through social media,NO,NO,Previous mistakes
+R642,16,2,Good,NA,5,1,9,1,Instagram,1,1,Decreased,NO,Reading,YES,NO,School/college
+R643,16,0.8,Very poor,NA,1,0,8,1,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R644,34,2,Good,NA,1,1,9,2,Whatsapp,1,3,Increased,NO,Talking,YES,YES,Colleagues
+R645,28,2,Excellent,NA,2,1,7,1,Facebook,1,2,Decreased,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R646,17,0.75,Good,Smartphone,2,2,6,1,Instagram,1,3,Increased,NO,Exercise,YES,YES,School/college
+R647,18,0.75,Good,Smartphone,1,1,12,1,Facebook,1,3,Increased,NO,Exercise,YES,YES,School/college
+R648,17,0.75,Good,Smartphone,2,1,12,1,Instagram,1,3,Increased,NO,Exercise,YES,YES,School/college
+R649,30,4,Excellent,Laptop/Desktop,4,0,5,6,Whatsapp,1,2,Remain Constant,NO,Watching web series,YES,YES,Roaming around freely
+R650,19,4,Average,Laptop/Desktop,4,1,8,0,Youtube,0,2,Increased,NO,Online gaming,NO,NO,Roaming around freely
+R651,21,0,Very poor,Smartphone,2,0,10,2,Instagram,0,3,Remain Constant,NO,Watching web series,NO,NO,Roaming around freely
+R652,20,4,Good,Laptop/Desktop,6,0,8,3,Facebook,0,3,Increased,NO,Online gaming,YES,YES,Travelling
+R653,19,5,Very poor,Smartphone,1,1,5,2,Youtube,4,3,Increased,NO,Listening to music,NO,YES,School/college
+R654,19,3,Very poor,Laptop/Desktop,2,1,8,3,Youtube,0,3,Remain Constant,NO,Dancing,NO,YES,School/college
+R655,19,0,Very poor,Smartphone,0,0,12,4,Youtube,6,3,Decreased,NO,Watching web series,NO,NO,Travelling
+R656,20,4,Average,Laptop/Desktop,2,1,7,1,Quora,0,3,Decreased,YES,Exercising,NO,YES,Roaming around freely
+R657,19,4,Very poor,Smartphone,5,0,6,2,Whatsapp,0,3,Increased,NO,Reading books,YES,YES,School/college
+R658,20,0,Very poor,Laptop/Desktop,3,0,8,4,Youtube,2,4,Increased,YES,Meditation,NO,NO,Travelling
+R659,19,2,Very poor,Laptop/Desktop,2,1,9,1,Instagram,0,2,Decreased,YES,Listening to music,YES,YES,Travelling
+R660,21,6,Very poor,Smartphone,4,1,7,2,Whatsapp,0,4,Increased,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R661,20,4,Very poor,Smartphone,3,0,8,3,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,Travelling
+R662,20,4,Very poor,Laptop/Desktop,4,1,7,1,Instagram,2,4,Remain Constant,NO,Sleeping,NO,YES,"Friends , relatives"
+R663,20,5,Average,Laptop/Desktop,0.5,0,8,1,Whatsapp,0.5,3,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R664,20,5,Very poor,Smartphone,2,1,7,1,Youtube,0,5,Increased,NO,Cardio,YES,YES,Roaming around freely
+R665,22,6,Average,Smartphone,2,1,11,6,Instagram,2,4,Increased,YES,Watching web series,NO,NO,"Friends , relatives"
+R666,22,3,Very poor,Laptop/Desktop,2,0,9,4,Instagram,1,4,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R667,21,1,Average,Smartphone,1,2,8,2,Instagram,0.5,3,Decreased,NO,Online gaming,NO,YES,Roaming around freely
+R668,30,2,Very poor,Laptop/Desktop,1,1,5,1,Youtube,0,3,Remain Constant,NO,Talking to your relatives,YES,YES,Roaming around freely
+R669,21,2,Very poor,Laptop/Desktop,2,0,6,3,Whatsapp,0,3,Remain Constant,NO,Online surfing,NO,NO,"Friends , relatives"
+R670,22,3,Average,Laptop/Desktop,3,1,8,3,Instagram,0,2,Decreased,NO,Dancing,YES,NO,"Friends , relatives"
+R671,21,4,Good,Smartphone,3,1,8,3,Instagram,3,3,Increased,NO,Online gaming,YES,YES,Colleagues
+R672,21,5,Very poor,Smartphone,1,0.5,9,1.5,Instagram,0,3,Remain Constant,NO,Scrolling through social media,NO,NO,Roaming around freely
+R673,19,5,Good,Laptop/Desktop,3,0,9,5,Whatsapp,1,3,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R674,22,1,Very poor,Laptop/Desktop,2,1,9,1.5,Whatsapp,0.5,3,Remain Constant,YES,Watching web series,NO,NO,"Friends , relatives"
+R675,20,6,Average,Laptop/Desktop,2,1,8,4,Instagram,0,2,Remain Constant,NO,Online gaming,NO,NO,Roaming around freely
+R676,21,3,Excellent,Laptop/Desktop,6.5,0,7,0.5,Whatsapp,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R678,21,3,Average,Laptop/Desktop,2,1,7,2,Youtube,1,3,Decreased,NO,Online surfing,YES,YES,Travelling
+R679,21,0,Very poor,Laptop/Desktop,4,1,8,1,Linkedin,0,4,Remain Constant,NO,Scrolling through social media,YES,NO,Roaming around freely
+R680,21,5,Good,Laptop/Desktop,4,2,8,1,Instagram,0,4,Decreased,YES,Cooking,NO,NO,Travelling
+R681,22,0,Very poor,Smartphone,0.5,1,10,1,Youtube,0,3,Increased,NO,Online gaming,NO,YES,Eating outside
+R682,20,0,Very poor,Laptop/Desktop,0,0,10,10,Instagram,0,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R683,20,3,Good,Laptop/Desktop,3,1,7,2,Instagram,1,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R684,18,2,Average,Smartphone,1,1,10,4,Youtube,1,4,Increased,NO,Online gaming,NO,NO,Eating outside
+R685,19,0,Average,Laptop/Desktop,3,1,9,2,Instagram,0,2,Remain Constant,NO,Online gaming,NO,NO,Eating outside
+R686,21,3,Average,Laptop/Desktop,4,1,7,1,Youtube,2,4,Decreased,NO,Meditation,NO,YES,"Friends , relatives"
+R687,19,4,Poor,Laptop/Desktop,5,2,7,0.5,Whatsapp,0,4,Remain Constant,YES,Listening to music,YES,YES,School/college
+R688,22,3,Very poor,Laptop/Desktop,3,0,7,4,Youtube,0,3,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R689,21,7,Very poor,Laptop/Desktop,0,0,8,3,Instagram,0,3,Remain Constant,NO,Online surfing,YES,NO,Eating outside
+R690,20,0,Very poor,Laptop/Desktop,2,2,9,2,Instagram,0.5,3,Decreased,NO,Listening to music,YES,YES,School/college
+R691,20,4,Very poor,Smartphone,2,1,6,2,Instagram,1,3,Increased,NO,I cant de-stress myslef,YES,YES,all
+R692,21,4,Good,Smartphone,2,1,7,3,Instagram,0,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R693,23,3,Very poor,Laptop/Desktop,6,1,7,1.5,Instagram,0.5,3,Increased,YES,working out and some physical activity,YES,YES,School/college
+R694,22,0,Very poor,Laptop/Desktop,1,0,14,2,Whatsapp,2,3,Increased,NO,Sleeping,NO,NO,Roaming around freely
+R695,20,4,Very poor,Laptop/Desktop,1,2,12,2,Whatsapp,2,3,Remain Constant,NO,Listening to music,YES,YES,ALL
+R696,20,6,Very poor,Laptop/Desktop,6,1,8,0,Linkedin,1,3,Decreased,NO,Online surfing,NO,YES,nothing
+R697,21,3,Average,Laptop/Desktop,3,0,9,2,Linkedin,0,8,Increased,NO,Watching web series,YES,YES,Roaming around freely
+R698,19,1,Average,Laptop/Desktop,3,0,10,4,Instagram,0,3,Decreased,NO,Online surfing,NO,NO,Roaming around freely
+R699,22,0,Average,Laptop/Desktop,6,1,6,1,Youtube,2,3,Remain Constant,NO,Online gaming,YES,YES,Gym
+R700,20,3,Poor,Laptop/Desktop,5,1,7,1,Whatsapp,0,3,Increased,YES,Watching web series,NO,NO,Roaming around freely
+R701,19,1,Average,Laptop/Desktop,2,1,7,3,Instagram,0,3,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R702,22,2,Good,Laptop/Desktop,10,1,6,1,Whatsapp,0,6,Increased,NO,Listening to music,YES,YES,Travelling
+R703,19,2,Very poor,Laptop/Desktop,1,2,5,4,Instagram,1,2,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R704,18,3,Average,Smartphone,1,1,9,4,Instagram,0.5,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R705,20,2,Average,Laptop/Desktop,2,1,9,1,Youtube,1,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R706,19,2,Very poor,Laptop/Desktop,2,0,12,2,Whatsapp,0,2,Decreased,NO,Listening to music,YES,YES,School/college
+R707,23,2,Average,Smartphone,5,1,12,1,Linkedin,0,3,Remain Constant,YES,Listening to music,YES,NO,School/college
+R708,19,0,Average,Smartphone,1,0,8,4,Youtube,3,3,Increased,NO,Online gaming,NO,YES,Roaming around freely
+R709,18,0,NA,NA,1,1,10,9,Instagram,2,3,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R710,19,2,Good,Laptop/Desktop,3,1,8,2,Youtube,1,3,Remain Constant,YES,Reading,YES,YES,School/college
+R711,17,7,Very poor,Laptop/Desktop,3,2,6,2,Instagram,0,4,Remain Constant,NO,Sleeping,YES,NO,Eating outside
+R712,18,7,Average,Laptop/Desktop,2,1,8,3,Whatsapp,1,3,Decreased,NO,Watching web series,YES,YES,"Friends , relatives"
+R713,22,2,Good,Any Gadget,1.5,1,7,1,Youtube,2,3,Increased,NO,Web Series,NO,NO,Travelling
+R714,21,4,Average,Laptop/Desktop,4,0,7,2,Whatsapp,1,3,Increased,NO,Watching web series,YES,YES,"Friends , relatives"
+R715,17,3,Average,Laptop/Desktop,2,0,6,2,Instagram,0,3,Increased,NO,Online gaming,NO,YES,"Friends , relatives"
+R716,19,0,Good,Tablet,0.5,1,6,2,Instagram,1,4,Increased,NO,Web Series,NO,YES,School/college
+R717,20,5,Very poor,Smartphone,2,2,6,3,Youtube,2,2,Decreased,NO,Reading books,NO,NO,Roaming around freely
+R718,17,4,Very poor,Smartphone,1,0,6,2,Instagram,0,3,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R719,21,3,Very poor,Laptop/Desktop,3,1,8,3,Instagram,2,2,Increased,NO,Listening to music,NO,NO,"Friends , relatives"
+R720,19,2,Average,Smartphone,2,0,9,5,Instagram,1,2,Remain Constant,NO,Sleeping,NO,NO,School/college
+R721,20,1.5,Very poor,Smartphone,2.5,2,9,1,Youtube,1.5,2,Decreased,YES,Listening to music,NO,YES,Travelling
+R722,21,3,Very poor,Laptop/Desktop,3,0,9,4,Snapchat,0.75,4,Increased,NO,Sleeping,NO,NO,School/college
+R723,19,2,Average,Laptop/Desktop,4,1,6,3,Instagram,1,4,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R724,38,4,Excellent,Laptop/Desktop,5,1,6,1,Youtube,2,3,Increased,NO,Online gaming,YES,YES,Roaming around freely
+R725,19,3,Average,Smartphone,7,1,6,1,Linkedin,1,4,Increased,NO,Talking to your relatives,YES,YES,School/college
+R726,17,2,Average,Laptop/Desktop,0,0,11,1.5,Instagram,2,4,Remain Constant,NO,Talking to your relatives,NO,YES,Eating outside
+R727,18,3,Good,Laptop/Desktop,3,0,10,2,Instagram,0,2,Increased,NO,Listening to music,NO,YES,Colleagues
+R728,20,5,Very poor,Laptop/Desktop,2,3,10,1,Youtube,0.5,2,Decreased,YES,Writing my own Comics & novels,YES,YES,Playing
+R729,20,2,Very poor,Smartphone,6,1,5,4,Youtube,0.5,1,Increased,YES,Listening to music,YES,YES,Travelling
+R730,23,0,Average,Laptop/Desktop,1,1,9,3,Linkedin,0,3,Increased,NO,Listening to music,YES,YES,Travelling
+R731,29,2,Average,Laptop/Desktop,2,1,8,0,Youtube,0,2,Remain Constant,NO,Reading books,NO,YES,nothing
+R732,20,0,Very poor,Laptop/Desktop,6,0,9,1,Whatsapp,1,3,Increased,NO,Sleeping,NO,NO,Travelling
+R733,22,1,Very poor,Smartphone,4,0.25,10,1,Linkedin,0,3,Remain Constant,NO,Sleeping,NO,YES,.
+R734,18,2,Average,Laptop/Desktop,3,1,8,2,Youtube,3,3,Increased,NO,Online surfing,YES,YES,School/college
+R735,15,4,Good,Smartphone,4,1,4,3,Youtube,2,3,Remain Constant,NO,Sleeping,YES,YES,Colleagues
+R736,19,4,Average,Smartphone,5,1,8,2,Youtube,1,3,Remain Constant,NO,Meditation,YES,YES,Travelling
+R737,20,2,Very poor,Smartphone,2,0,9,10,Youtube,1,2,Decreased,NO,Online gaming,YES,YES,Nothing
+R738,21,1,Very poor,Smartphone,4,1,9,1,Whatsapp,1,3,Remain Constant,NO,Watching web series,YES,NO,Eating outside
+R739,21,4,Average,Laptop/Desktop,3,0,8,2,Youtube,1,3,Decreased,NO,Online gaming,YES,YES,Roaming around freely
+R740,20,4,Very poor,Smartphone,1,1,10,2,Instagram,1,3,Increased,YES,Dancing,NO,YES,Eating outside
+R741,20,2,Average,Smartphone,1,2,8,4,Facebook,2,4,Decreased,NO,Reading books,NO,YES,Travelling
+R742,19,0,Very poor,Smartphone,2,1,7,4,Instagram,0,2,Remain Constant,NO,Meditation,NO,YES,Travelling
+R743,28,3,Good,Laptop/Desktop,1,0,10,1,Whatsapp,0,2,Increased,NO,Online gaming,NO,YES,Eating outside
+R744,19,6,Good,Laptop/Desktop,6,0,8,2,Youtube,0.5,2,Increased,NO,Listening to music,YES,NO,Travelling
+R745,21,2,Average,Smartphone,2,1,8,1,Youtube,0,3,Remain Constant,NO,Sleeping,NO,NO,"Friends , relatives"
+R746,23,0,Good,Laptop/Desktop,3,0,10,4,Youtube,1,3,Increased,NO,Online gaming,NO,YES,Eating outside
+R747,20,3,Good,Laptop/Desktop,2,1,7,5,Whatsapp,2,3,Remain Constant,NO,Reading,NO,YES,School/college
+R748,22,4,Good,Laptop/Desktop,2,1,12,2,Instagram,2,3,Remain Constant,NO,Talking,NO,YES,School/college
+R749,20,2,Average,Smartphone,4,1,8,2,Youtube,0,3,Increased,NO,Listening to music,YES,YES,School/college
+R750,22,0,NA,NA,0,1,5,4,Instagram,0,2,Decreased,NO,Watching web series,NO,YES,Travelling
+R751,20,5,Good,Laptop/Desktop,4,1,7,3,Youtube,1,3,Increased,NO,Reading,YES,YES,Travelling
+R752,23,3,Good,Laptop/Desktop,2,1,6,1,Whatsapp,0,2,Remain Constant,NO,Reading,YES,YES,Eating outside
+R753,21,2,Very poor,Smartphone,2,1,8,4,Whatsapp,1,4,Increased,NO,Scrolling through social media,NO,YES,Travelling
+R754,19,3,Very poor,Smartphone,2,1,9,5,Instagram,1,3,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R755,23,3,Good,Laptop/Desktop,5,0,6,1,Youtube,0,2,Remain Constant,NO,Web Series,NO,YES,School/college
+R756,20,4,Average,Smartphone,2,0,8,2,Whatsapp,4,3,Remain Constant,NO,Sleeping,YES,YES,"Friends , relatives"
+R757,22,2,Good,Laptop/Desktop,2,1,8,2,Whatsapp,0,4,Increased,NO,Web Series,YES,YES,Travelling
+R758,19,2,Poor,Smartphone,2,2,8,3,Youtube,0,4,Decreased,YES,Gym,YES,NO,Roaming around freely
+R759,21,5,Very poor,Smartphone,4,1,7,1,Youtube,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R760,20,0,Very poor,Smartphone,5,0,8,1,Youtube,,3,Decreased,YES,I have no problem of stress,NO,YES,I have missed nothing
+R761,21,1,Very poor,Laptop/Desktop,5,1,11,2,Instagram,0,3,Increased,NO,workout,NO,YES,Eating outside
+R762,22,5,Good,Laptop/Desktop,3,0,7,2,Whatsapp,0,3,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R763,18,4,Good,Smartphone,2,0.5,6,2,Whatsapp,0,4,Remain Constant,NO,Online gaming,YES,NO,School/college
+R764,21,1,Good,Laptop/Desktop,1,2,7,2,Youtube,0,3,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R765,22,2,Average,Laptop/Desktop,5,0.3,8,1,Linkedin,1,3,Increased,YES,Listening to music,NO,NO,Roaming around freely
+R766,20,4,Average,Laptop/Desktop,3,1,9,3,Instagram,1,2,Increased,NO,Meditation,NO,YES,"Friends , relatives"
+R767,19,6,Very poor,Smartphone,4,2,6,2,Instagram,0,4,Decreased,YES,Online gaming,YES,YES,"Friends , relatives"
+R768,21,0.5,Very poor,Smartphone,2,1,9,1,Youtube,0,3,Increased,NO,Reading books,NO,YES,Travelling
+R769,21,1,Very poor,Laptop/Desktop,0,0,9,3,Whatsapp,0,3,Remain Constant,NO,Watching web series,NO,NO,School/college
+R770,19,4,Very poor,Smartphone,2,1,9,7,Instagram,3,3,Increased,NO,Sleeping,NO,YES,School/college
+R771,21,2,Very poor,Smartphone,2,0,8,1,Twitter,0,3,Increased,YES,Reading books,NO,YES,School/college
+R772,23,5.5,Excellent,Laptop/Desktop,3,1,8,1,Whatsapp,0,2,Decreased,NO,Watching web series,YES,YES,School/college
+R773,21,0,Very poor,Smartphone,0,0,9,4,Youtube,0,4,Increased,NO,Watching web series,NO,NO,Eating outside
+R774,40,6,Average,Laptop/Desktop,3,0,7,2,Whatsapp,2,3,Remain Constant,NO,No able to reduce the stress,NO,YES,Travelling
+R775,20,4,Good,Laptop/Desktop,1,0,9,2,Instagram,0,3,Increased,NO,Social Media,NO,YES,School/college
+R776,40,5,Excellent,Laptop/Desktop,4,0.5,6,1,Whatsapp,2,2,Remain Constant,NO,Talking to your relatives,YES,YES,Travelling
+R777,19,3,Average,Smartphone,1,1,6,2,Instagram,0,3,Decreased,NO,Watching web series,YES,YES,School/college
+R778,18,2,Very poor,Laptop/Desktop,4,0,8,1.5,Instagram,0,2,Remain Constant,NO,Watching web series,NO,NO,School/college
+R779,23,3,Average,Laptop/Desktop,2,1,6,3,Twitter,2,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R780,21,7,Average,Laptop/Desktop,8,0,6,1,Linkedin,1,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R781,12,5,Average,Smartphone,2,1,7,0,None,1,4,Remain Constant,NO,Cooking,YES,YES,"Friends , relatives"
+R782,20,0.5,Very poor,Smartphone,1,1,8,0.5,Whatsapp,2.5,3,Remain Constant,NO,"Sleeping, Online games",NO,YES,All
+R783,22,0,NA,NA,2,1,8,2,Instagram,2,3,Remain Constant,NO,Dancing,YES,YES,School/college
+R784,30,4,Average,Laptop/Desktop,3,1,7.8,4,Whatsapp,2,3,Increased,NO,Watching web series,NO,NO,Roaming around freely
+R785,21,5,Average,Laptop/Desktop,1,1,8,2,Instagram,2,4,Remain Constant,NO,Watching web series,YES,YES,"Friends , relatives"
+R786,20,1,Very poor,Laptop/Desktop,0,0,8,4,Whatsapp,0,4,Increased,NO,Listening to music,NO,YES,"Friends , relatives"
+R787,22,3,Average,Laptop/Desktop,5,0,8,2,Instagram,0,2,Remain Constant,YES,Listening to music,YES,YES,"Friends , relatives"
+R788,40,1,Excellent,Laptop/Desktop,2,1,6.7,1,Whatsapp,1,2,Remain Constant,NO,Online surfing,YES,YES,"Friends , relatives"
+R789,24,5,Excellent,Laptop/Desktop,3,3,8,2,Whatsapp,2,3,Remain Constant,NO,By engaging in my work.,YES,YES,ALL
+R790,18,4,Very poor,Smartphone,1,2,9,2,Whatsapp,0.5,2,Decreased,NO,Listening to music,NO,YES,Roaming around freely
+R791,22,1,Very poor,Smartphone,2,1,5,10,Instagram,0,2,Decreased,NO,Watching web series,NO,NO,Roaming around freely
+R792,20,7,Poor,Smartphone,2,0,8,3,Instagram,0,2,Remain Constant,YES,Scrolling through social media,NO,YES,Travelling & Friends
+R793,35,3,Good,Laptop/Desktop,3,1,7,1,Whatsapp,1,3,Remain Constant,NO,Sleeping,NO,NO,School/college
+R794,40,2,Poor,Smartphone,3,0,5,1,Whatsapp,1,4,Increased,NO,Watching web series,NO,YES,School/college
+R795,18,0,Poor,Laptop/Desktop,2,2,7,4,Instagram,1,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R796,19,4,Very poor,Smartphone,0,0,7,1,Youtube,0,2,Increased,NO,Listening to music,NO,NO,Eating outside
+R797,35,4,Average,Laptop/Desktop,4,2,10,2,Facebook,1,3,Remain Constant,NO,Online gaming,YES,YES,Roaming around freely
+R798,16,5,Very poor,Laptop/Desktop,4,0.5,8,0.5,Youtube,0,3,Increased,NO,Reading books,NO,NO,Eating outside
+R799,30,1,Good,Smartphone,1,1,7,1,Whatsapp,0,4,Remain Constant,NO,Dancing,NO,YES,School/college
+R800,23,5,Excellent,Laptop/Desktop,2,1,8,1,Whatsapp,4,3,Remain Constant,YES,Meditation,YES,YES,"Friends , relatives"
+R801,19,2,Average,Laptop/Desktop,5,0,9,2,Instagram,0.5,3,Increased,YES,Talking to your relatives,NO,YES,"Friends , relatives"
+R802,19,4,Very poor,Smartphone,2,1,8,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R803,37,4,Good,Laptop/Desktop,5,1,7,4,Instagram,0,2,Increased,NO,Talking,YES,YES,Travelling
+R804,21,3,Very poor,Laptop/Desktop,2,0,7,1,Instagram,0,2,Increased,NO,Scrolling through social media,NO,NO,School/college
+R805,20,3,Very poor,Laptop/Desktop,4,0,9,2,Youtube,1,4,Increased,NO,Scrolling through social media,YES,NO,"Friends , relatives"
+R806,24,0,Average,Smartphone,1,1,8,1,Linkedin,0,3,Remain Constant,NO,Work,YES,NO,Roaming around freely
+R807,40,0,Average,Laptop/Desktop,0,1,10,2,Whatsapp,1,3,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R808,20,2,Very poor,Smartphone,1,0.5,8,2,Youtube,5,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R809,23,3,Poor,Smartphone,4,0,9,3,Facebook,0,2,Increased,NO,Watching web series,NO,YES,"Friends , relatives"
+R810,26,3,Very poor,Laptop/Desktop,2,1,8,1,Youtube,0,4,Increased,NO,Listening to music,YES,YES,Roaming around freely
+R811,20,5,Good,Smartphone,3,0,7,2,Youtube,2,4,Remain Constant,NO,Online gaming,NO,YES,Travelling
+R812,22,0,Very poor,Smartphone,4,1,8,0,None,0,4,Remain Constant,YES,"Painting,. Sewing",NO,NO,Travelling
+R813,14,5,Good,Laptop/Desktop,4,0,8,2,Facebook,2,3,Increased,NO,Sleeping,NO,YES,School/college
+R814,20,0,Very poor,Smartphone,1,0,10,4,Youtube,1,3,Increased,NO,Online gaming,NO,YES,Travelling
+R815,22,0,Average,Smartphone,0,0,10,5,Facebook,4,2,Remain Constant,NO,Drawing,NO,YES,School/college
+R816,40,5,Average,Smartphone,2,1,8,4,Whatsapp,6,3,Remain Constant,NO,Scrolling through social media,YES,YES,Roaming around freely
+R817,23,1,Poor,Smartphone,2,1,8,2,Instagram,2,2,Increased,YES,Meditation,NO,YES,School/college
+R818,21,3,Very poor,Smartphone,2,2,7,3,Whatsapp,3,2,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R819,21,5,Average,Smartphone,5,0,5,2,Instagram,1,2,Remain Constant,NO,Listening to music,YES,NO,To stay alone.
+R820,34,2,Average,Smartphone,1,1,7,4,Whatsapp,2,3,Increased,NO,Scrolling through social media,YES,YES,Travelling
+R821,40,1,Average,Smartphone,1,1,8,3,Facebook,2,2,Decreased,NO,Forming,NO,YES,School/college
+R822,22,3,Good,Smartphone,2,1,8,2,Youtube,1,2,Remain Constant,NO,Online gaming,YES,NO,Colleagues
+R823,21,2,Very poor,Smartphone,0,2,8,4,Instagram,2,2,Remain Constant,NO,Cooking,NO,NO,Travelling
+R824,18,2,Poor,Smartphone,1,1,8.5,2,Whatsapp,3,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R825,22,2,Average,Laptop/Desktop,7,1,9,2,Instagram,0,2,Decreased,NO,Scrolling through social media,NO,NO,Roaming around freely
+R826,21,0,Very poor,Smartphone,2,3,9,1,Whatsapp,1,1,Decreased,YES,Online surfing,NO,NO,Roaming around freely
+R827,22,3,Very poor,Laptop/Desktop,5,1,8,3,Facebook,1,4,Remain Constant,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R828,21,2,Good,Laptop/Desktop,2,2,7,0.5,Whatsapp,0,4,Remain Constant,NO,Reading,YES,YES,Colleagues
+R829,21,3,Very poor,Laptop/Desktop,12,0,6,1,Linkedin,0,2,Decreased,YES,Scrolling through social media,NO,NO,School/college
+R830,21,2,Very poor,Smartphone,3,0,8,2,Instagram,0,2,Increased,YES,Listening to music,NO,NO,School/college
+R831,20,4,Very poor,Laptop/Desktop,4,0,11,3,Instagram,0,3,Increased,NO,Watching web series,NO,NO,Eating outside
+R832,20,4,NA,NA,3,1,7,2,Whatsapp,2,4,Remain Constant,NO,Watching web series,YES,YES,ALL
+R833,21,3,Very poor,Laptop/Desktop,5,0,7,1,Youtube,0,4,Remain Constant,NO,Online gaming,YES,NO,Eating outside
+R834,20,4,Average,Laptop/Desktop,5,0.5,8,1,Whatsapp,2,3,Increased,NO,Meditation,YES,YES,"Friends , relatives"
+R835,21,4,Average,Laptop/Desktop,4,0,6,4,Whatsapp,0,3,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R836,21,3,Very poor,Smartphone,8,1,8,1,Whatsapp,0,3,Remain Constant,NO,Meditation,YES,NO,"Friends , relatives"
+R837,21,5,Average,Smartphone,6,0,5,2,Youtube,0,3,Increased,YES,Online gaming,YES,YES,Eating outside
+R838,40,6,Excellent,Laptop/Desktop,2,1,6,2,Whatsapp,2,3,Decreased,NO,Listening to music,YES,NO,School/college
+R839,20,2,Very poor,Smartphone,3,2,8,1,Youtube,1,3,Increased,NO,Listening to music,NO,NO,School/college
+R840,22,4,Good,Laptop/Desktop,2,1,8,5,Whatsapp,0,3,Remain Constant,NO,Social Media,NO,YES,School/college
+R841,19,5,Average,Smartphone,6,1,6,0,Whatsapp,0,3,Remain Constant,NO,Online surfing,YES,YES,School/college
+R842,22,3,Good,Smartphone,3,0,12,1,Youtube,4,2,Remain Constant,NO,Online gaming,NO,NO,All
+R843,20,6,Very poor,Laptop/Desktop,4,1,6,3,Whatsapp,0.5,3,Remain Constant,NO,Watching web series,YES,YES,"Friends , relatives"
+R844,36,4,Good,Laptop/Desktop,2,1,10,1,Youtube,1,3,Increased,NO,Sleeping,YES,YES,Colleagues
+R845,23,4,Good,Laptop/Desktop,2,0.5,7,3,Youtube,1,3,Remain Constant,NO,Talking,YES,YES,Travelling
+R846,32,2,Average,Laptop/Desktop,3,0,9,2,None,0.5,3,Increased,NO,Reading books,NO,YES,School/college
+R847,24,2,Average,Smartphone,3,0.5,9,2,Twitter,0,2,Remain Constant,NO,Sleeping,YES,YES,Family
+R848,20,5,Average,Laptop/Desktop,4,1,8,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R849,22,2,Excellent,Laptop/Desktop,3,1,8,2,Instagram,1,3,Decreased,NO,Online surfing,YES,YES,Eating outside
+R850,20,5,Very poor,Laptop/Desktop,1,0,8,1,Youtube,0.5,2,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R851,21,4,Very poor,Laptop/Desktop,2,0,10,2,Whatsapp,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R852,38,4,Very poor,Laptop/Desktop,3,1,6,2,Youtube,2,3,Remain Constant,NO,Sleeping,YES,YES,Travelling
+R853,27,3,Good,Laptop/Desktop,2,1,8,2,Instagram,0.5,4,Decreased,YES,Web Series,NO,NO,Travelling
+R854,20,2,Average,Laptop/Desktop,2,0,7,2,Whatsapp,1,3,Increased,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R855,21,2,Very poor,Laptop/Desktop,12,1,9,5,Youtube,1,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R856,20,8,Very poor,Laptop/Desktop,2,0,6,2,Linkedin,3,3,Decreased,NO,Listening to music,NO,YES,Eating outside
+R857,20,4,Average,Smartphone,1,0,6,10,Talklife,2,1,Remain Constant,NO,Online surfing,NO,NO,School/college
+R858,22,5,Average,Smartphone,4,1,6,2,Instagram,2,3,Increased,NO,Listening to music,YES,YES,School/college
+R859,21,3,Very poor,Laptop/Desktop,2,1,8,0.75,Whatsapp,1,3,Remain Constant,NO,Listening to music,NO,NO,Badminton in court
+R860,21,3,Very poor,Laptop/Desktop,1,0,8,1,Instagram,0,3,Increased,NO,Listening to music,NO,YES,Roaming around freely
+R861,21,4,Very poor,Smartphone,6,0,9,2,Youtube,0,2,Remain Constant,NO,Listening to music,NO,YES,School/college
+R862,21,4,Very poor,Smartphone,1,1,7,2,Instagram,0,4,Increased,NO,Scrolling through social media,YES,YES,Eating outside
+R863,21,4,Average,Smartphone,2,2,12,2,Instagram,0,2,Decreased,NO,Online surfing,NO,YES,"Friends , relatives"
+R864,20,5,Average,Smartphone,5,1,6,2,Instagram,1,3,Increased,NO,Listening to music,NO,YES,School/college
+R865,33,2,Very poor,Laptop/Desktop,1,1,7,1,Youtube,0,3,Remain Constant,YES,Online surfing,NO,YES,Travelling
+R866,20,4,Very poor,Smartphone,5,1,10,3,Whatsapp,0,2,Remain Constant,NO,Listening to music,NO,NO,School/college
+R867,21,3,Average,Smartphone,2,2,7,1,Whatsapp,3,2,Remain Constant,NO,Workout and listening music,YES,YES,Travelling
+R868,20,6,Average,Laptop/Desktop,2,2,7,3,Whatsapp,1,4,Decreased,NO,Meditation,YES,NO,"Friends , relatives"
+R869,37,2,Good,Laptop/Desktop,1,1,7,0.5,Whatsapp,1,2,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R870,22,5,Average,Smartphone,3,0,8,3,Instagram,0,3,Remain Constant,NO,Both listining music and scrolling down social media,NO,YES,School/college
+R871,33,4,Average,Laptop/Desktop,1,0,7,1,Whatsapp,N,4,Increased,NO,Cooking,YES,YES,School/college
+R872,17,1,Very poor,Smartphone,2,0,7,2,Snapchat,1,3,Increased,YES,Dancing,NO,NO,"Friends , relatives"
+R873,20,4,Average,Smartphone,5,1,7,0.5,Instagram,0,3,Decreased,NO,Listening to music,YES,YES,School/college
+R874,19,2,Average,Laptop/Desktop,2,1,9,2,Instagram,1,4,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R875,20,4,Average,Smartphone,3,1,7,1,Youtube,1,2,Increased,NO,Meditation,YES,YES,Travelling
+R876,21,3,Very poor,Smartphone,4,1,5,2,Youtube,0,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R877,17,7,Very poor,Smartphone,2,1,6,3,Youtube,1,3,Increased,NO,Watching web series,NO,YES,Travelling
+R878,20,3,Poor,Smartphone,2,0,7,3,Youtube,1,2,Decreased,YES,Watching web series,NO,YES,"Friends, relatives & travelling"
+R879,20,7,Very poor,Laptop/Desktop,4,0,7,2,Instagram,1,3,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R880,19,10,Average,Laptop/Desktop,3,1,5,1,Instagram,0.5,4,Remain Constant,NO,Reading books,NO,NO,"Friends , relatives"
+R881,21,5,Average,Laptop/Desktop,2,0,9,1,Instagram,2,3,Remain Constant,NO,Listening to music,NO,NO,ALL
+R882,20,8,Average,Laptop/Desktop,5,1,5,3,Instagram,0.5,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R883,36,5,Good,Laptop/Desktop,4,1,5,1,Whatsapp,1,2,Remain Constant,NO,Reading,YES,YES,Travelling
+R884,20,4,Very poor,Smartphone,4,0,8,1,Instagram,0,3,Remain Constant,NO,Meditation,NO,NO,Eating outside
+R885,31,4,Good,Laptop/Desktop,3,2,9,2,Linkedin,0,2,Decreased,NO,Talking,YES,YES,Travelling
+R886,22,6,Very poor,Laptop/Desktop,4,0,8,2,Whatsapp,0.5,4,Increased,NO,Sleeping,NO,NO,School/college
+R887,22,5,Average,Smartphone,4,1,8,2,Youtube,1,2,Decreased,NO,Listening to music,YES,YES,Travelling
+R888,28,3,Good,Laptop/Desktop,2,1,8,4,Instagram,1,3,Remain Constant,NO,Reading,YES,YES,Travelling
+R889,16,5,Very poor,Smartphone,1,0,10,3,Whatsapp,0,2,Decreased,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R890,20,2,Average,Smartphone,3,0,12,7,Instagram,1.5,4,Decreased,YES,Scrolling through social media,NO,NO,School/college
+R891,21,2,Very poor,Smartphone,4,0,8,1,Whatsapp,2,3,Increased,YES,Listening to music,NO,NO,Roaming around freely
+R892,19,4,Average,Laptop/Desktop,3,2,7,4,Instagram,0,3,Decreased,NO,Online gaming,NO,YES,Travelling
+R893,20,6,Average,Laptop/Desktop,2,1,8,2,Instagram,1,3,Remain Constant,NO,Sleeping,YES,YES,Roaming around freely
+R894,14,2,Good,Smartphone,2,1,8,3,Whatsapp,1,3,Increased,NO,Sleeping,NO,YES,School/college
+R895,26,1,Average,Smartphone,3,1,8,4,Youtube,0,3,Decreased,YES,Watching web series,NO,YES,Roaming around freely
+R896,21,3,Very poor,Laptop/Desktop,2,0,8,6,Instagram,5,4,Increased,NO,Listening to music,NO,YES,Roaming around freely
+R897,34,1,Good,Smartphone,3,0.5,7,0,None,1,1,Remain Constant,NO,Listening to music,NO,NO,Colleagues
+R898,19,5,Very poor,Smartphone,2,0,6,3,Instagram,0,1,Increased,NO,Online gaming,NO,YES,Travelling
+R899,19,8,Very poor,Laptop/Desktop,2,1,6,2,Whatsapp,0,3,Remain Constant,NO,Sleeping,NO,NO,Roaming around freely
+R900,21,7,Good,Any Gadget,7,0,10,3,Whatsapp,0,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R901,23,4,Very poor,Laptop/Desktop,1,0,7,8,Facebook,2,3,Decreased,NO,Online surfing,NO,YES,Travelling
+R902,19,5,Very poor,Smartphone,2,0,7,3,Instagram,0,3,Increased,NO,Scrolling through social media,YES,YES,Eating outside
+R903,27,1,Average,Laptop/Desktop,2,0,8,3,Instagram,2,3,Increased,NO,Cooking,YES,YES,Travelling
+R904,33,3,Average,Smartphone,1,0,6,1,Whatsapp,4,2,Decreased,YES,Sleeping,NO,YES,Roaming around freely
+R905,21,5,Average,Smartphone,3,1,11,3,Youtube,2,3,Remain Constant,NO,Cooking,NO,NO,School/college
+R906,21,2,Very poor,Smartphone,3,0,8,4,Whatsapp,1,3,Remain Constant,NO,Watching web series,NO,NO,All
+R907,24,0,Very poor,Smartphone,1,0,5,4,Linkedin,6,3,Decreased,YES,Scrolling through social media,NO,YES,"Friends , relatives"
+R908,23,0,Good,Laptop/Desktop,0,0,8,3,Youtube,0,1,Remain Constant,NO,Social Media,NO,NO,Gym
+R909,20,5,Good,Laptop/Desktop,1,1,8,1,Instagram,1,4,Decreased,NO,Listening to music,YES,YES,Colleagues
+R910,29,10,Good,Laptop/Desktop,7,1,6,7,Whatsapp,2,2,Remain Constant,NO,Web Series,YES,YES,Eating outside
+R911,20,4,Average,Laptop/Desktop,1,1,10,5,Instagram,0.3,3,Decreased,NO,Online surfing,YES,YES,Travelling
+R912,21,1,Good,Smartphone,5,0,7,2,Linkedin,2,2,Remain Constant,NO,Dancing,NO,NO,School/college
+R913,21,6,Average,Laptop/Desktop,2,1,8,5,Instagram,2,2,Increased,NO,Reading books,NO,YES,Roaming around freely
+R914,19,7,Average,Laptop/Desktop,1,1,5,6,Instagram,1,3,Remain Constant,NO,Dancing,NO,YES,"Friends , relatives"
+R915,19,5,Average,Smartphone,6,2,5,4,Instagram,0,3,Remain Constant,NO,Scrolling through social media,YES,YES,School/college
+R916,39,2,Excellent,Tablet,1,1,7,1,Whatsapp,0.5,3,Remain Constant,NO,Cooking,NO,YES,"Friends , relatives"
+R917,20,3,Average,Smartphone,2,0,8,1,Facebook,1,3,Remain Constant,NO,Meditation,NO,YES,School/college
+R918,19,5,Average,Laptop/Desktop,2,0.5,8,2,Whatsapp,1,3,Increased,NO,Listening to music,NO,YES,Roaming around freely
+R919,23,2,Average,Laptop/Desktop,6,2,7,4,Facebook,2,4,Remain Constant,NO,Online surfing,YES,YES,Roaming around freely
+R920,21,5,Average,Laptop/Desktop,2,0,10,2,Whatsapp,0.5,3,Increased,NO,Listening to music,YES,NO,School/college
+R921,10,5,Average,Laptop/Desktop,2,1,9,1.5,Whatsapp,1,4,Increased,NO,Online gaming,YES,YES,everything
+R922,14,5,Average,Tablet,1,1,9,1,Youtube,4,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R923,9,5,Excellent,Smartphone or Laptop/Desktop,2,0.6,7,1,Whatsapp,0,4,Remain Constant,NO,Online gaming,YES,YES,Eating outside
+R924,22,4,Average,Laptop/Desktop,3,1,7,1,Twitter,2,3,Decreased,NO,Online gaming,YES,YES,Roaming around freely
+R925,13,4,Good,Laptop/Desktop,2,0,10,3,Youtube,0,4,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R926,23,2,Very poor,Smartphone,2,1,6,3,Whatsapp,0,3,Increased,NO,Listening to music,NO,NO,School/college
+R927,13,5,Very poor,Smartphone,1,0.6,7,4,Youtube,2,4,Decreased,NO,Listening to music,NO,YES,School/college
+R928,21,1,Good,Laptop/Desktop,3,1,10,3,Instagram,1,3,Increased,NO,Social Media,YES,YES,School/college
+R929,34,3,Average,Smartphone,6,0,6,1,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R930,14,9,Good,Smartphone,2,1,9,1,Instagram,0,2,Remain Constant,NO,Online gaming,YES,YES,Colleagues
+R931,32,2,Average,Smartphone,2,1,6,1,Youtube,0,1,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R932,21,3,Average,Smartphone,2,1,8,6,Whatsapp,3,2,Remain Constant,NO,Painting,NO,YES,School/college
+R933,19,3,Excellent,Smartphone,0,1,6,4,Facebook,1,3,Remain Constant,NO,Listening to music,YES,NO,School/college
+R934,14,5,Average,Tablet,3,1,6,4,Youtube,0,2,Increased,YES,Listening to music,YES,YES,Travelling
+R935,22,1,Average,Smartphone,1,0,9,3,Instagram,0,3,Increased,NO,Listening to music,YES,YES,Eating outside
+R936,26,9,Very poor,Laptop/Desktop,2,0,5,3,Linkedin,1,3,Increased,NO,Reading books,YES,YES,School/college
+R937,21,2,Very poor,Smartphone,2,0,7,1,Youtube,1,3,Remain Constant,YES,Listening to music,NO,YES,School/college
+R938,22,1,Very poor,Laptop/Desktop,6,0,6,2,Whatsapp,0,2,Increased,YES,Watching web series,YES,YES,Travelling
+R939,21,2,Average,Laptop/Desktop,3,1,8,6,Instagram,2,3,Remain Constant,NO,Dancing,YES,YES,Travelling
+R940,40,5,Excellent,Laptop/Desktop,4,1,7,6,Linkedin,2,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R941,15,2,Good,Laptop/Desktop,2,0,11,5,Youtube,0,3,Remain Constant,NO,Web Series,NO,YES,Nothing
+R942,16,3,Average,Smartphone,3,0,10,5,Instagram,3,4,Remain Constant,NO,Listening to music,NO,YES,Eating outside
+R943,20,4,Very poor,Smartphone,3,1,8,5,Youtube,2,4,Increased,NO,Reading books,YES,YES,Roaming around freely
+R944,22,2,Very poor,Laptop/Desktop,1,0,8,4,Whatsapp,0,2,Remain Constant,NO,Online gaming,NO,YES,"Friends , relatives"
+R945,22,4,Average,Laptop/Desktop,6,0,8,5,Instagram,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R946,23,2,Good,Smartphone,7,0,7,4,Instagram,1,4,Increased,NO,Dancing,NO,YES,Travelling
+R947,21,4,Good,Laptop/Desktop,10,1,7,3,Whatsapp,0,3,Remain Constant,YES,Listening to music,NO,YES,Travelling
+R948,17,3,Average,Smartphone,2,1,8,5,Whatsapp,3.5,1,Remain Constant,NO,Watching web series,YES,YES,School/college
+R949,24,0,Average,Laptop/Desktop,10,1,8,1,Whatsapp,0,3,Increased,NO,Talking to your relatives,YES,YES,School/college
+R950,19,1,Average,Smartphone,0,0,8,6,Instagram,2,2,Decreased,YES,Online gaming,NO,NO,Eating outside
+R951,23,10,Average,Laptop/Desktop,1,0,8,8,Youtube,1,3,Decreased,NO,Watching web series,YES,YES,Travelling
+R952,21,6,Average,Smartphone,2,1,7,3,Whatsapp,1,3,Decreased,NO,Reading books,YES,YES,"Friends , relatives"
+R953,14,6,Good,Tablet,2,0,8.3,1,Youtube,2.5,3,Increased,NO,Online gaming,NO,YES,All
+R954,14,3,Good,Smartphone,1,0,8,3,Youtube,1,4,Remain Constant,NO,Web Series,NO,YES,Colleagues
+R955,23,2,Average,Laptop/Desktop,6,1,7,2,Linkedin,1,3,Increased,NO,Online gaming,NO,YES,School/college
+R956,21,0,NA,NA,1,1,11,8,Instagram,3,3,Increased,NO,Listening to music,NO,YES,Travelling
+R957,33,2,Average,Smartphone,1,0,6,1,Whatsapp,0.5,2,Remain Constant,NO,Meditation,NO,YES,Travelling
+R958,11,4,Good,Smartphone,2,0,9,1,Whatsapp,0,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R959,20,3,Good,Laptop/Desktop,2,1,10,2,Instagram,0,4,Increased,NO,Sleeping,YES,YES,Colleagues
+R960,23,2,Average,Smartphone,2,0.3,8,1,Whatsapp,N,3,Decreased,NO,Meditation,YES,YES,"Friends , relatives"
+R961,20,0,NA,NA,2,0,7,0.5,Twitter,2,2,Remain Constant,NO,Online surfing,NO,YES,Eating outside
+R962,18,0,Poor,Smartphone,0,2,12,1,Twitter,0,7,Increased,NO,Online gaming,NO,YES,Roaming around freely
+R963,21,4,Average,Smartphone,8,0,6,1,Youtube,0,2,Decreased,YES,Online surfing,NO,NO,Travelling
+R964,38,2,Very poor,Laptop/Desktop,4,0,7,3,Whatsapp,1,3,Increased,NO,Scrolling through social media,NO,NO,Roaming around freely
+R965,20,5,Good,Laptop/Desktop,5,0,8,3,Youtube,0,2,Remain Constant,NO,Reading,YES,NO,Colleagues
+R966,21,0,NA,NA,6,1,9,2,Whatsapp,0.5,4,Increased,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R967,11,2,Excellent,Smartphone,1,0,10,3,Youtube,2,3,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R968,22,0,Good,Laptop/Desktop,4,1,7,3,Instagram,0,3,Increased,NO,Listening to music,NO,YES,Travelling
+R969,23,0,NA,NA,2,2,10,6,Youtube,0,2,Remain Constant,NO,Listening to music,YES,NO,School/college
+R970,21,8,Very poor,Laptop/Desktop,1,1,9,2,Instagram,0,3,Remain Constant,YES,Scrolling through social media,NO,NO,Eating outside
+R971,26,0,Very poor,Smartphone,0,0,12,2,Linkedin,2,2,Remain Constant,YES,Listening to music,NO,NO,School/college
+R972,23,2,Very poor,Laptop/Desktop,1,1,7.5,1,Whatsapp,2,3,Remain Constant,NO,Online gaming,YES,YES,Travelling
+R973,19,3,Average,Smartphone,5,1,6,1,Youtube,0,2,Remain Constant,NO,Reading books,YES,YES,"Friends , relatives"
+R974,21,5,Average,Smartphone,3,1,8,4,Youtube,0,4,Remain Constant,YES,Cooking,NO,NO,School/college
+R975,20,4,Very poor,Laptop/Desktop,3,0,9,2,Instagram,1,2,Remain Constant,NO,Scrolling through social media,YES,NO,School/college
+R976,19,1,Good,Laptop/Desktop,2,0,8,1,Whatsapp,0.3,3,Remain Constant,NO,Dancing,NO,YES,School/college
+R977,20,4,Very poor,Smartphone,2,0,10,1,Instagram,0,3,Decreased,NO,Sleeping,NO,NO,Roaming around freely
+R978,19,2,Average,Laptop/Desktop,3,0.5,8,2,Instagram,1,3,Increased,NO,Watching web series,NO,NO,School/college
+R979,17,4,Good,Laptop/Desktop,2,1,10,6,Whatsapp,4,4,Increased,NO,Listening to music,YES,YES,Colleagues
+R980,20,10,Very poor,Laptop/Desktop,2,1,8,5,Instagram,0,3,Remain Constant,NO,Scrolling through social media,NO,NO,Nothing
+R981,20,4,Good,Smartphone,2,1,8,2,Instagram,0.1,4,Remain Constant,NO,Cooking,YES,YES,School/college
+R982,27,4,Average,Smartphone,2,0,7,8,Youtube,4,3,Increased,NO,Listening to music,NO,YES,Travelling
+R983,18,7,Very poor,Smartphone,4,0,9,2,Instagram,0,2,Decreased,NO,Online surfing,NO,YES,School/college
+R984,18,8,Good,Smartphone,2,0.25,7,1.5,Instagram,1,3,Increased,NO,Talking,NO,NO,School/college
+R985,19,6,Average,Smartphone,4,1,6,5,Whatsapp,2,3,Remain Constant,NO,Online gaming,NO,NO,School/college
+R986,18,5,Very poor,Smartphone,0,0,7,1,Instagram,0.5,3,Decreased,NO,Online gaming,YES,NO,School/college
+R987,20,4,Good,Smartphone,2,1,8,2,Instagram,0.1,4,Remain Constant,NO,Cooking,YES,YES,School/college
+R988,19,6,Very poor,Laptop/Desktop,2,0,8,2,Instagram,0,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R989,19,6,Average,Laptop/Desktop,5,1,7,3,Instagram,0.3,4,Increased,NO,Watching web series,YES,YES,School/college
+R990,18,8,Very poor,Smartphone,0,1,6,5,Whatsapp,0,2,Decreased,NO,Online gaming,NO,YES,Roaming around freely
+R991,18,4,Very poor,Smartphone,0,1,8,2,Instagram,0.3,3,Remain Constant,NO,Sketching,YES,YES,"Friends , relatives"
+R992,19,8,Good,Smartphone,2,2,8,5,Instagram,1,2,Decreased,YES,Dancing,NO,YES,School/college
+R993,26,1,Average,Smartphone,1,0,8,3,Facebook,0,3,Increased,NO,Listening to music,NO,YES,School/college
+R994,18,8,Average,Smartphone,3,1,5,4,Youtube,2,2,Decreased,NO,Listening to music,NO,NO,School/college
+R995,19,2,Good,Smartphone,2,1,8,3,Whatsapp,2,1,Decreased,YES,Listening to music,NO,YES,School/college
+R996,18,5,Average,Smartphone,2,0,6,1,Instagram,0,3,Remain Constant,NO,Talking to your relatives,NO,YES,School/college
+R997,21,2,Average,Laptop/Desktop,1,0,12,3,Instagram,0,2,Increased,NO,Listening to music,NO,YES,School/college
+R998,19,0,Very poor,Laptop/Desktop,8,0,8,10,Instagram,0,3,Remain Constant,YES,Talking to your relatives,YES,YES,"Friends , relatives"
+R999,23,2,Average,Laptop/Desktop,2,2,7,5,Whatsapp,2,2,Remain Constant,NO,Scrolling through social media,NO,YES,"Friends , relatives"
+R1000,22,4,Good,Laptop/Desktop,2,0,9,3,Instagram,1,2,Increased,NO,Listening to music,YES,YES,School/college
+R1001,19,8,Average,Smartphone,4,0,6,1,Whatsapp,2,2,Remain Constant,NO,Sleeping,NO,YES,School/college
+R1002,19,6,Good,Laptop/Desktop,2,0,8,10,Instagram,0,4,Increased,NO,Social Media,NO,YES,School/college
+R1004,18,6,Very poor,Smartphone,4,0,7,3,Instagram,0.3,4,Decreased,NO,Online surfing,YES,YES,School/college
+R1005,12,0,Excellent,Smartphone,3,1,8,1,Whatsapp,2,2,Increased,NO,Reading books,YES,YES,School/college
+R1006,18,5,Good,Smartphone,3,2,8,3,Youtube,0,3,Remain Constant,NO,Listening to music,NO,YES,Travelling
+R1007,19,4,Very poor,Laptop/Desktop,3,0,8,2,Youtube,0,3,Remain Constant,NO,Listening to music,YES,NO,Roaming around freely
+R1008,19,6,Average,Laptop/Desktop,2,2,6,3,Instagram,0.3,2,Increased,NO,Listening to music,NO,YES,School/college
+R1009,20,3,Very poor,Laptop/Desktop,2,0,7,3,Instagram,0,4,Decreased,YES,Reading books,NO,NO,School/college
+R1010,26,4,Very poor,Smartphone,2,0,7,2,Instagram,0,3,Increased,NO,Listening to music,NO,YES,Travelling
+R1011,20,3,Very poor,Laptop/Desktop,2,1,8,1,Whatsapp,1,4,Increased,NO,Online gaming,NO,YES,School/college
+R1012,23,4,Good,Smartphone,2,1,7,3,Linkedin,1,3,Remain Constant,YES,Cooking,YES,YES,Colleagues
+R1013,26,4,Very poor,Smartphone,3,1,7,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,NO,Roaming around freely
+R1014,19,4,Average,Laptop/Desktop,2,0.5,8,2,Whatsapp,1,2,Remain Constant,NO,Watching web series,NO,NO,"Friends , relatives"
+R1015,22,0,Good,Laptop/Desktop,2,1,9,2,Instagram,2,2,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1016,23,3,Average,Smartphone,4,1,8,3,Whatsapp,2,3,Remain Constant,NO,Online surfing,YES,NO,School/college
+R1017,20,2,Good,Smartphone,3,1,6,2,Whatsapp,3,2,Remain Constant,NO,Sleeping,NO,YES,Travelling
+R1018,29,5,Average,Laptop/Desktop,3,1,8,2,Linkedin,2,3,Remain Constant,NO,Watching web series,YES,YES,Travelling
+R1019,28,5,Good,Laptop/Desktop,4,1,10,2,Whatsapp,1,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1020,32,3,Average,Laptop/Desktop,2,0,6,2,Whatsapp,0.3,3,Increased,YES,Talking to your relatives,YES,YES,"Friends , relatives"
+R1021,21,0,Poor,Smartphone,1,2,7,2,Instagram,0.5,4,Decreased,NO,Meditation,YES,YES,Travelling
+R1022,24,1,Good,Smartphone,3,2,8,2,Youtube,0,2,Remain Constant,NO,Social Media,YES,YES,Eating outside
+R1023,25,0,Good,Laptop/Desktop,4,1,8,2,Whatsapp,0,2,Remain Constant,YES,Web Series,NO,YES,Travelling
+R1024,32,4,Average,Laptop/Desktop,4,1,6,0.3,Whatsapp,0,3,Remain Constant,NO,Cooking,YES,YES,School/college
+R1025,35,1,Good,Smartphone,3,1,7,2,Whatsapp,0,2,Remain Constant,NO,Talking,YES,YES,Travelling
+R1026,27,0,Good,Smartphone,2,0,8,2,Youtube,2,3,Remain Constant,NO,Sleeping,NO,YES,Travelling
+R1027,36,3,Average,Laptop/Desktop,2,0,10,2,Youtube,0,3,Increased,NO,Watching web series,NO,NO,Travelling
+R1028,22,5,Very poor,Laptop/Desktop,1,1,8,1,Twitter,0.5,3,Decreased,YES,Sleeping,YES,YES,Eating outside
+R1029,20,6,Good,Laptop/Desktop,4,1,6,1,Instagram,0,3,Increased,NO,Listening to music,YES,YES,School/college
+R1030,16,4,Very poor,Smartphone,2,0,9,2,Youtube,0,2,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R1031,38,2,Average,Laptop/Desktop,3,1,5,3,Whatsapp,0,3,Increased,NO,Listening to music,YES,NO,Roaming around freely
+R1032,24,2,Good,Smartphone,0,1,9,5,Instagram,3,4,Increased,NO,Online gaming,YES,YES,Colleagues
+R1033,25,0,Very poor,Smartphone,2,0,7,5,Facebook,0,3,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R1034,20,2,Very poor,Smartphone,8,1,6,1,Youtube,0,3,Remain Constant,NO,Watching web series,YES,YES,"Friends , relatives"
+R1035,22,2,Very poor,Smartphone,1,0,9,3,Youtube,2,2,Decreased,YES,Listening to music,NO,YES,School/college
+R1036,23,4,Average,Smartphone,3,1,8,2,Whatsapp,0,4,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R1037,24,2,Very poor,Smartphone,6,0,12,4,Twitter,0,4,Remain Constant,NO,Scrolling through social media,NO,YES,School/college
+R1038,20,0,Average,Smartphone,0,2,9,2,Youtube,0.5,3,Remain Constant,NO,Sports,NO,YES,School/college
+R1040,20,5,Average,Laptop/Desktop,4,1,8,1.5,Instagram,1,3,Increased,NO,Listening to music,NO,YES,Eating outside
+R1041,19,3,Very poor,Laptop/Desktop,3,0,8,3,Whatsapp,0,3,Remain Constant,YES,Scrolling through social media,NO,NO,Eating outside
+R1042,18,4,Very poor,Laptop/Desktop,1,1,10,3,Whatsapp,1,4,Increased,NO,Reading books,NO,NO,Eating outside
+R1043,20,5,Very poor,Laptop/Desktop,3,0.5,10,3,Whatsapp,2,3,Increased,NO,Sleeping,YES,NO,"Friends , relatives"
+R1044,21,6,Good,Laptop/Desktop,4,1,8,2,Whatsapp,0.5,3,Remain Constant,NO,Web Series,YES,YES,Travelling
+R1045,20,2,Very poor,Laptop/Desktop,1,0,6,1,Twitter,2,3,Decreased,NO,Listening to music,NO,NO,Roaming around freely
+R1046,20,2,Good,Smartphone,2,1,8,2,Instagram,3,3,Decreased,NO,Sleeping,YES,YES,Colleagues
+R1047,21,4,Excellent,Laptop/Desktop,2,0,8,0.5,Whatsapp,4,3,Increased,YES,Meditation,YES,YES,"Friends , relatives"
+R1048,22,2,Average,Laptop/Desktop,2,1,8,3,Whatsapp,0.5,3,Remain Constant,NO,Scrolling through social media,NO,NO,"Friends , relatives"
+R1049,22,2,Very poor,Smartphone,3,1,10,4,Instagram,2,4,Remain Constant,NO,Scrolling through social media,NO,YES,Eating outside
+R1050,21,0,Poor,Smartphone,1,0,7,0,Whatsapp,0,2,Increased,NO,Reading books,YES,YES,"Friends , relatives"
+R1051,19,4,Very poor,Laptop/Desktop,3,0,10,4,Youtube,N,2,Increased,YES,Sleeping,NO,NO,School/college
+R1052,18,2,Average,Smartphone,2,1,8,1.3,Instagram,2,4,Remain Constant,NO,Drawing and painting and sketching,NO,YES,"Friends , relatives"
+R1053,20,3,Very poor,Smartphone,2,0,6,3,Instagram,0,2,Increased,NO,Reading books,YES,NO,Roaming around freely
+R1054,20,3,Average,Smartphone,3,1,11,3,Facebook,0,3,Remain Constant,NO,With a friend,NO,YES,School/college
+R1055,18,0,Good,Smartphone,3,1,7,2,Instagram,1,4,Remain Constant,NO,Meditation,YES,YES,Colleagues
+R1056,31,8,Very poor,Laptop/Desktop,1,0,8,2,Whatsapp,1,2,Remain Constant,NO,Online gaming,NO,YES,Roaming around freely
+R1057,18,6,Very poor,Laptop/Desktop,2,0,8,1,Instagram,0.5,2,Increased,NO,Watching web series,NO,YES,School/college
+R1058,23,2,Good,Smartphone,1,1,5,2,None,1,2,Decreased,NO,Cooking,YES,YES,Nothing
+R1059,20,3,Average,Laptop/Desktop,2,0,9,5,Youtube,0,4,Increased,NO,Scrolling through social media,NO,NO,Eating outside
+R1060,33,4,Average,Smartphone,2,1,6,4,Youtube,1,3,Increased,YES,Talking to your relatives,YES,YES,School/college
+R1061,24,2,Average,Smartphone,4,0,6,3,Instagram,0,4,Increased,NO,Watching web series,NO,YES,Travelling
+R1062,17,5,Very poor,Laptop/Desktop,0.5,0.3,7.5,0.5,Youtube,0.3,3,Remain Constant,NO,Online gaming,YES,NO,Travelling
+R1063,15,4,Average,Laptop/Desktop,3,0,8,2,Instagram,1,3,Remain Constant,NO,Painting,YES,YES,Eating outside
+R1064,17,4,Average,Laptop/Desktop,5,2,7,0.4,Youtube,0.5,3,Remain Constant,NO,"Reading books, music, exercise",NO,YES,Friends and roaming around freely
+R1065,16,4,Excellent,Smartphone or Laptop/Desktop,3,1,8,5,Youtube,5,3,Increased,NO,Listening to music,NO,NO,Roaming around freely
+R1066,15,8,Average,Tablet,4,0,5,2,Youtube,1,3,Remain Constant,NO,Watching ted talks and music and books,YES,NO,School/college
+R1067,16,8,Good,Smartphone,5,0,9,1,Youtube,0,2,Increased,NO,Social Media,NO,NO,Colleagues
+R1068,16,5,Average,Laptop/Desktop,2,1,10,1,None,2,4,Increased,NO,Listening to music,YES,YES,Travelling
+R1069,15,7,Good,Smartphone,3,2,6,0,Whatsapp,1,3,Remain Constant,NO,Sleeping,NO,YES,School/college
+R1070,16,5,Very poor,Smartphone,1,2,10,1.5,Instagram,0,3,Remain Constant,NO,Online gaming,NO,NO,Roaming around freely
+R1071,16,4,Very poor,Smartphone,4,1,7,2,Instagram,0,3,Remain Constant,NO,Watching web series,NO,YES,"Friends , relatives"
+R1072,16,7,Good,Tablet,3,0,8,0.5,Whatsapp,0,2,Decreased,NO,Listening to music,NO,NO,All
+R1073,30,2,Very poor,Laptop/Desktop,0,1,8,1,Youtube,8,4,Increased,NO,Watching web series,NO,NO,NOTHING
+R1074,16,5,Very poor,Smartphone,2,0.5,7,1,Youtube,2,3,Remain Constant,NO,Calling friends,NO,YES,"Friends , relatives"
+R1075,15,5,Average,Laptop/Desktop,4,1,8,2,Whatsapp,1,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1076,16,4,Average,Laptop/Desktop,8,1,8,0.5,Youtube,0.5,4,Decreased,NO,Listening to music,YES,YES,School/college
+R1077,15,4,Very poor,Laptop/Desktop,4,0,5,4,Youtube,0,3,Decreased,NO,Online gaming,NO,NO,School/college
+R1078,15,4,Good,Smartphone,4,1,7,2,Youtube,1,4,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1079,15,8,Very poor,Smartphone,2,0,8,1,Youtube,0,3,Increased,NO,Online gaming,NO,YES,School/college
+R1080,16,7,Good,Smartphone,2,0,8,0.5,Youtube,1.5,3,Remain Constant,NO,Talking,NO,YES,School/college
+R1081,15,3,Average,Smartphone,4,0.5,7,1,Instagram,1.5,4,Increased,NO,Listening to music,YES,YES,Eating outside
+R1082,16,8,Average,Laptop/Desktop,1,0.3,8,0,Telegram,0,2,Increased,YES,no stress,NO,NO,"Friends , relatives"
+R1083,16,7,Average,Laptop/Desktop,3,0,8,3,Youtube,2,2,Remain Constant,NO,"Drawing, painting",NO,NO,School/college
+R1084,15,4,Average,Laptop/Desktop,4,1,7,1,Whatsapp,1.5,3,Remain Constant,NO,Reading books,YES,YES,"Friends , relatives"
+R1085,16,8,Average,Laptop/Desktop,8,0,7,2,Whatsapp,0,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R1087,15,5,Excellent,Laptop/Desktop,4,0.5,8,0,None,1,3,Remain Constant,NO,Sleeping,YES,YES,"Friends , relatives"
+R1088,16,8,Average,Smartphone,4,0,5,8,Whatsapp,3,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1089,16,8,Good,Laptop/Desktop,4,0,7,2,Whatsapp,0,2,Increased,NO,Social Media,NO,YES,School/college
+R1090,16,4,Good,Smartphone,4,1,7,2,Whatsapp,1,2,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R1091,16,7,Good,Smartphone,3,0,7,2,Instagram,1,2,Increased,NO,Listening to music,NO,YES,Colleagues
+R1092,16,6,Average,Laptop/Desktop,1,0.5,9,1,Whatsapp,1,2,Decreased,NO,All reading books watching web series listening to music and talking to friends,NO,YES,"Friends , relatives"
+R1093,17,6,Average,Smartphone,1,0,8,1,Reddit,0,2,Remain Constant,NO,Online gaming,NO,NO,Metro
+R1094,16,8,Very poor,Smartphone,5,1,8,1,Facebook,1,3,Remain Constant,NO,Sleeping,YES,YES,"Friends , relatives"
+R1095,16,4,Average,Laptop/Desktop,1,1,9,2,Youtube,0.4,4,Remain Constant,NO,Online gaming,YES,NO,"Friends , relatives"
+R1096,15,9,Excellent,Laptop/Desktop,10,0.5,6,0,Whatsapp,2,3,Remain Constant,NO,Reading books,NO,YES,"Friends , relatives"
+R1097,17,3,Very poor,Smartphone,6,0,8,2,Youtube,0,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1098,16,6,Very poor,Smartphone,3,1,10,1,Youtube,0.5,3,Remain Constant,NO,Sleeping,YES,YES,ALL
+R1099,16,8,Average,Laptop/Desktop,0,0,6,6,Instagram,0,3,Remain Constant,NO,Listening to music,NO,NO,School/college
+R1100,16,8,Average,Laptop/Desktop,1,0,8,1,Youtube,2,2,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1101,15,5,Very poor,Smartphone,3,1,9,3,Instagram,0,3,Decreased,NO,Scrolling through social media,YES,YES,Eating outside
+R1102,16,4,Good,Smartphone,3,1,8,1,Whatsapp,1,4,Remain Constant,NO,Talking,YES,NO,Eating outside
+R1103,17,4,Very poor,Laptop/Desktop,0,1,7,1,Youtube,3,4,Increased,NO,Online gaming,NO,NO,"Friends , relatives"
+R1104,25,5,Average,Laptop/Desktop,1,3,6,5,Instagram,0,3,Decreased,NO,Watching web series,YES,YES,Travelling
+R1105,20,0,Very poor,Smartphone,6,1,9,3,Youtube,0,3,Increased,NO,Listening to music,YES,YES,Travelling
+R1106,16,5,Very poor,Smartphone,2,1,8,1,Whatsapp,4,2,Increased,NO,Talking to your relatives,NO,YES,"Friends , relatives"
+R1107,16,4,Very poor,Smartphone,5,1,7,1,Instagram,1,3,Increased,NO,Online surfing,YES,NO,Roaming around freely
+R1108,15,5,Good,Laptop/Desktop,2,2,6,0.5,Whatsapp,2,3,Remain Constant,NO,Social Media,NO,NO,Travelling
+R1109,16,4,Very poor,Smartphone,2,2,6,5,Youtube,0,4,Increased,NO,Sleeping,NO,YES,School/college
+R1110,24,6,Average,Smartphone,6,0,7,2,Youtube,No tv,3,Decreased,NO,Do some home related stuff,YES,NO,Travelling
+R1111,16,5,Excellent,Smartphone,1,1,11,0,Whatsapp,2,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R1112,16,5,Average,Laptop/Desktop,4,0,6,1,Instagram,0,3,Remain Constant,NO,Painting,YES,YES,"Friends , relatives"
+R1113,16,5,Average,Smartphone,2,1,10,1,Whatsapp,0.5,3,Remain Constant,NO,Listening to music,NO,YES,School/college
+R1114,15,6,Average,Smartphone,1,1,9,1,Instagram,2,3,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R1115,17,2,Very poor,Tablet,8,3,5,0,Youtube,1,4,Increased,NO,Youtube,NO,YES,School/college
+R1116,16,5,Average,Laptop/Desktop,8,2,5,2,Youtube,0,4,Remain Constant,NO,Taking with parents,YES,YES,School/college
+R1117,12,5,Good,Tablet,1,0,7,4,Youtube,0,2,Increased,NO,Online gaming,YES,YES,School/college
+R1118,14,4,Excellent,Smartphone,2,1,9,1,Whatsapp,2,3,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1119,13,4,Excellent,Smartphone,3,0.25,8,1,Youtube,0.5,1,Increased,NO,Online gaming,YES,YES,"Friends , relatives"
+R1120,12,5,Good,Smartphone,5,0,6,1,Youtube,2,2,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R1121,15,6,Average,Smartphone,11,0.25,7,5,Youtube,0,4,Increased,NO,"Online gaming , surfing and listening to music ",YES,YES,Travelling
+R1122,13,5,Excellent,Tablet,4,1,8,0,Youtube,0.5,4,Remain Constant,NO,Listening to music,YES,NO,School/college
+R1123,12,4,Good,Tablet,1,1,9,1,Youtube,3,3,Increased,NO,Listening to music,NO,YES,Colleagues
+R1124,13,6,Good,Smartphone,2,2,6,1,Youtube,1,1,Decreased,NO,Listening to music,YES,YES,Colleagues
+R1125,16,4,Good,Laptop/Desktop,1,1,7,1,Instagram,3,2,Remain Constant,NO,Listening to music,YES,YES,Travelling
+R1126,12,4,Excellent,Smartphone,2,1,6,0,Youtube,2,2,Remain Constant,YES,Listening to music,YES,YES,"Friends , relatives"
+R1127,14,4,Good,Smartphone,3.5,0,9,2,Youtube,3,3,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1128,13,8,Good,Smartphone,3,1,13,1,Whatsapp,2,2,Increased,NO,Meditation,NO,YES,Colleagues
+R1129,13,6,Average,Laptop/Desktop,2,0,5,1,Youtube,0,3,Remain Constant,NO,Online gaming,NO,NO,"Friends , relatives"
+R1130,14,6,Average,Laptop/Desktop,8,1,8,1,Youtube,0.1,2,Remain Constant,NO,Scrolling through social media,NO,NO,Roaming around freely
+R1131,14,4,Average,Smartphone,0,1,9,3,Youtube,1,3,Remain Constant,NO,Online gaming,YES,YES,School/college
+R1132,14,6,Good,Smartphone,3,1,7,1,Whatsapp,1,4,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1133,14,6,Average,Smartphone,2,1,4,1,Youtube,2,3,Remain Constant,NO,Dancing,YES,NO,"Friends , relatives"
+R1134,14,4,Excellent,Smartphone,2,2,12,1,Whatsapp,2,3,Decreased,NO,Watching web series,YES,YES,School/college
+R1135,13,5,Good,Tablet,4,1,8,1,Youtube,0,2,Decreased,NO,Listening to music,YES,NO,Colleagues
+R1136,18,7,Average,Smartphone,4,0,6,1,Whatsapp,0,2,Remain Constant,NO,Listening to music,NO,NO,"Friends , relatives"
+R1137,13,3,Good,Tablet,4,1,7,1,Youtube,3,3,Increased,NO,Online gaming,NO,YES,School/college
+R1138,14,6,Average,Smartphone,3,1,10,1,Whatsapp,2,4,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1139,13,3,Very poor,Smartphone,1,2,7,3,Youtube,2,3,Remain Constant,NO,Online gaming,NO,YES,Nothing
+R1140,13,4,Average,Smartphone,2,1,8,2,Youtube,5,3,Remain Constant,NO,I play Rubiks cube,NO,YES,ALL
+R1141,12,5.5,Good,Smartphone,2,1,7,3,Youtube,1,2,Remain Constant,NO,Social Media,YES,YES,School/college
+R1142,11,4,Excellent,Smartphone,2,0,11,1,Whatsapp,2,2,Remain Constant,NO,Meditation,YES,YES,"Friends , relatives"
+R1143,12,6,Excellent,Tablet,2,0.5,9,1,Whatsapp,1,3,Increased,NO,Youtube,YES,YES,"Friends , relatives"
+R1144,13,2,Good,Smartphone,2,1,6,1,Whatsapp,0,2,Decreased,NO,Listening to music,NO,YES,Eating outside
+R1145,14,6,Good,Laptop/Desktop,3,1,6,1,Youtube,1,3,Remain Constant,NO,Sleeping,YES,YES,School/college
+R1146,16,4,Average,Smartphone,2,0,5,1,Youtube,1,3,Increased,NO,Online gaming,YES,NO,Travelling
+R1147,10,4,Good,Smartphone,2,1,7,0,None,1,3,Remain Constant,NO,Talking,YES,YES,School/college
+R1148,13,5,Excellent,Smartphone,3,1,8,2,Youtube,1,2,Increased,NO,Reading books,YES,YES,School/college
+R1149,12,4,Average,Smartphone,1,1,8,2,Youtube,0.5,2,Remain Constant,NO,Scrolling through social media,YES,YES,"Friends , relatives"
+R1150,15,8,Good,Laptop/Desktop,1.5,0.5,8,0.5,Whatsapp,0.3,3,Remain Constant,NO,Online gaming,NO,YES,Colleagues
+R1151,14,5,Average,Smartphone or Laptop/Desktop,2,0,9,0.5,Whatsapp,0.5,4,Increased,YES,Listening to music,YES,YES,Travelling
+R1152,14,3,Average,Smartphone,1,1,10,1,Whatsapp,2,2,Decreased,NO,Listening to music,YES,YES,"Friends , relatives"
+R1153,13,4,Average,Smartphone,1,0,10,1,None,1,2,Remain Constant,NO,Online gaming,NO,YES,"Friends , relatives"
+R1154,15,4,Very poor,Smartphone,2,1,9,0.5,Instagram,2,4,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R1155,17,6,Very poor,Smartphone,3,1,7,1,Instagram,1,2,Decreased,NO,Gym,NO,YES,School and friends.
+R1156,22,5,Average,Laptop/Desktop,4,0,8,3,Linkedin,0,2,Increased,NO,Talking to your relatives,NO,YES,School/college
+R1157,13,6,Good,Smartphone,2,0,11,1,Whatsapp,0.5,3,Remain Constant,NO,Online gaming,YES,YES,Colleagues
+R1158,11,5,Average,Smartphone,2,1,8,1,Whatsapp,0.5,1,Decreased,NO,Watching web series,YES,NO,School/college
+R1159,13,4,Good,Smartphone,1,0.5,7,1,Instagram,2,4,Increased,NO,Listening to music,YES,YES,School/college
+R1160,14,5,Excellent,Smartphone,2,0,12,2,Youtube,1,3,Remain Constant,NO,Listening to music,NO,YES,"Friends , relatives"
+R1161,12,6,Good,Laptop/Desktop,2,2,8,7,Snapchat,2,3,Remain Constant,NO,Social Media,YES,YES,Eating outside
+R1162,13,4,Excellent,Laptop/Desktop,4,1,8,0,Whatsapp,1,2,Remain Constant,NO,Listening to music and reading books both .,YES,YES,ALL
+R1164,12,4,Good,Smartphone,2,1,8,0,Whatsapp,3,4,Remain Constant,NO,Meditation,YES,YES,Colleagues
+R1165,12,5,Excellent,Laptop/Desktop,3,1,7,0,None,2,2,Remain Constant,NO,Listening to music,YES,YES,Eating outside
+R1166,13,6,Excellent,Smartphone,7,0,5,0,Youtube,0,3,Remain Constant,NO,"Poetry, writing books and novels , listening to music too",YES,NO,Nothing
+R1167,14,6,Excellent,Laptop/Desktop,1,2,7,1,Whatsapp,1,4,Increased,NO,Sleeping,YES,YES,Roaming around freely
+R1168,14,6,Good,Smartphone,2,1,8,1,Whatsapp,1,1,Decreased,NO,Social Media,NO,YES,Colleagues
+R1169,12,6,Excellent,Smartphone,5,1,8,2,Youtube,1,2,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1171,14,6,Average,Smartphone,2,0.5,10,1,Whatsapp,1,3,Remain Constant,NO,Sleeping,YES,YES,School and my school friends
+R1172,14,3,Excellent,Smartphone,5,2,12,0.25,Whatsapp,0,3,Increased,NO,Sleeping,YES,YES,School/college
+R1173,12,4,Excellent,Smartphone,3,2,10,1,WhatsApp,1,4,Increased,NO,Sleeping,YES,YES,"Friends , relatives"
+R1174,14,4,Excellent,Smartphone,2,1,6,1,Whatsapp,1,2,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1175,13,6,Very poor,Laptop/Desktop,3,1,8,2,Whatsapp,2,3,Decreased,NO,Listening to music,YES,NO,"Friends , relatives"
+R1176,12,5,Excellent,Smartphone,2,1,12,0,Youtube,1,3,Remain Constant,NO,Dancing,YES,YES,"Friends , relatives"
+R1177,13,5,Excellent,Laptop/Desktop,4,1,8,1,Whatsapp,1.5,3,Decreased,NO,Listening to music,YES,YES,School/college
+R1178,12,4,Very poor,Smartphone,1.5,0,9,5,Youtube,1,4,Increased,NO,Painting,NO,YES,"Friends , relatives"
+R1179,13,6,Excellent,Laptop/Desktop,2,0.5,9,1,Whatsapp,3,4,Remain Constant,NO,Online gaming,YES,YES,"Friends , relatives"
+R1180,12,6,Average,Smartphone,3,1,9,1,Whatsapp,1,4,Remain Constant,NO,Listening to music,NO,YES,Roaming around freely
+R1181,12,5,Good,Laptop/Desktop,2,0,8,2,Youtube,1,3,Remain Constant,NO,Listening to music,YES,NO,Colleagues
+R1182,13,6,Good,Tablet,2,1,6,1,Youtube,2,3,Decreased,NO,Dancing,YES,YES,Colleagues
+R1183,16,7.5,Good,Laptop/Desktop,4.5,0,6,0.5,Whatsapp,2,4,Remain Constant,NO,Listening to music,YES,YES,Colleagues
+R1184,13,5,Excellent,Laptop/Desktop,6,1,6,0,Youtube,0,4,Remain Constant,NO,Listening to music,YES,YES,School/college
+R1185,13,4,Good,Smartphone,4,1,8,1,Whatsapp,2,3,Decreased,NO,Reading,YES,YES,School/college
+R1186,15,5,Average,Smartphone,2,1,13,1,Youtube,1,2,Remain Constant,NO,Online surfing,NO,YES,School/college
+R1187,12,6,Excellent,Laptop/Desktop,3,1,9,4,Youtube,3,4,Remain Constant,NO,Talking to your relatives,YES,YES,School/college
+R1188,13,8,Average,Laptop/Desktop,2,1,7,1,Whatsapp,1,3,Decreased,NO,Cooking,YES,YES,Travelling
+R1189,15,5,Good,Tablet,4,1,7,2,Whatsapp,0,4,Increased,NO,Social Media,NO,YES,Travelling
+R1190,13,3,Very poor,Smartphone,1,0.5,8,3,Youtube,1,3,Remain Constant,NO,Watching YouTube,NO,NO,School/college
+R1191,12,3,Good,Smartphone,4,1,8,1,Instagram,2,3,Decreased,NO,Dancing,YES,YES,Travelling
+R1192,14,6,Average,Smartphone,4,1,9,1,Whatsapp,1,4,Remain Constant,NO,Listening to music,YES,YES,"Friends , relatives"
+R1193,13,4,Average,Smartphone,0,0.5,8,3,Youtube,2,4,Decreased,NO,Online gaming,NO,YES,School/college
+R1194,14,5,Excellent,Laptop/Desktop,3.5,1,8,0.5,Youtube,1,4,Remain Constant,NO,Reading books,YES,YES,School/college
+R1195,13,5,Good,Tablet,2,0.5,7,1,Whatsapp,1,3,Remain Constant,NO,Talking,YES,YES,School/college
